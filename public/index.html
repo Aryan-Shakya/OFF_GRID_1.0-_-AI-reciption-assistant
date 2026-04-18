@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reception Intelligence Suite</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #020617;
+            --glass-bg: rgba(15, 23, 42, 0.6);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --primary: #6366f1;
+            --primary-glow: rgba(99, 102, 241, 0.3);
+            --accent: #10b981;
+            --accent-glow: rgba(16, 185, 129, 0.3);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --card-bg: rgba(30, 41, 59, 0.4);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background: var(--bg-color);
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(99, 102, 241, 0.1) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(16, 185, 129, 0.08) 0%, transparent 40%);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow-x: hidden;
+        }
+
+        .dashboard {
+            max-width: 1400px;
+            margin: 0 auto;
+            width: 100%;
+            padding: 2rem;
+            display: grid;
+            grid-template-columns: 380px 1fr;
+            gap: 2rem;
+            height: 100vh;
+            max-height: 100vh;
+        }
+
+        /* Sidebar Controls */
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            height: 100%;
+            overflow-y: auto;
+            padding-right: 0.5rem;
+        }
+
+        .card {
+            background: var(--glass-bg);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 2rem;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+        }
+
+        .header {
+            text-align: left;
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            background: linear-gradient(135deg, #fff 0%, #94a3b8 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-top: 0.5rem;
+            line-height: 1.5;
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.8rem;
+        }
+
+        input[type="url"] {
+            width: 100%;
+            padding: 1rem 1.2rem;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--glass-border);
+            border-radius: 14px;
+            color: white;
+            font-size: 0.95rem;
+            font-family: 'Inter', sans-serif;
+            transition: all 0.3s ease;
+        }
+
+        input[type="url"]:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 20px var(--primary-glow);
+        }
+
+        button {
+            width: 100%;
+            padding: 1rem;
+            border-radius: 14px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            border: none;
+        }
+
+        #startBtn {
+            background: linear-gradient(135deg, var(--primary), #4f46e5);
+            color: white;
+            box-shadow: 0 10px 20px var(--primary-glow);
+        }
+
+        #startBtn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 15px 30px var(--primary-glow);
+        }
+
+        #downloadBtn {
+            background: rgba(16, 185, 129, 0.1);
+            color: var(--accent);
+            border: 1px solid rgba(16, 185, 129, 0.2);
+            margin-top: 1rem;
+            display: none;
+        }
+
+        #downloadBtn:hover {
+            background: rgba(16, 185, 129, 0.2);
+        }
+
+        /* Stats Cards */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Main Content Feed */
+        .main-feed {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        .feed-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem 0;
+        }
+
+        .pulse-indicator {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.85rem;
+            color: var(--accent);
+            opacity: 0;
+            transition: opacity 0.5s;
+        }
+
+        .pulse-indicator.active {
+            opacity: 1;
+        }
+
+        .pulse-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--accent);
+            border-radius: 50%;
+            box-shadow: 0 0 10px var(--accent);
+            animation: pulse-ring 1.5s infinite;
+        }
+
+        @keyframes pulse-ring {
+            0% { transform: scale(0.8); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
+            70% { transform: scale(1.1); box-shadow: 0 0 0 8px rgba(16, 185, 129, 0); }
+            100% { transform: scale(0.8); box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
+        }
+
+        .fact-stream {
+            flex: 1;
+            background: var(--glass-bg);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 1.5rem;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            scroll-behavior: smooth;
+        }
+
+        .fact-card {
+            background: var(--card-bg);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px;
+            padding: 1.25rem;
+            animation: slideIn 0.5s cubic-bezier(0.19, 1, 0.22, 1) forwards;
+            position: relative;
+            overflow: hidden;
+            transition: transform 0.2s;
+        }
+
+        .fact-card:hover {
+            transform: scale(1.01);
+            border-color: rgba(255, 255, 255, 0.15);
+        }
+
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .fact-meta {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.75rem;
+        }
+
+        .category-badge {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            padding: 0.25rem 0.6rem;
+            border-radius: 6px;
+            letter-spacing: 0.05em;
+        }
+
+        .cat-staff { background: rgba(99, 102, 241, 0.15); color: #818cf8; }
+        .cat-services { background: rgba(16, 185, 129, 0.15); color: #34d399; }
+        .cat-pricing { background: rgba(245, 158, 11, 0.15); color: #fbbf24; }
+        .cat-location { background: rgba(239, 68, 68, 0.15); color: #f87171; }
+        .cat-policies { background: rgba(168, 85, 247, 0.15); color: #c084fc; }
+        .cat-general { background: rgba(148, 163, 184, 0.15); color: #cbd5e1; }
+
+        .fact-id {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            font-family: monospace;
+        }
+
+        .fact-text {
+            line-height: 1.6;
+            font-size: 0.95rem;
+            color: #e2e8f0;
+        }
+
+        .fact-url {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-top: 0.8rem;
+            display: block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        /* Progress Bar */
+        .progress-bar-container {
+            width: 100%;
+            height: 6px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            margin-top: 1rem;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(90deg, var(--primary), var(--accent));
+            box-shadow: 0 0 10px var(--primary-glow);
+            transition: width 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.1); border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: rgba(255, 255, 255, 0.2); }
+
+        /* Toggle Switch */
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 44px;
+            height: 22px;
+        }
+
+        .switch input { opacity: 0; width: 0; height: 0; }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-color: rgba(255, 255, 255, 0.1);
+            transition: .4s;
+            border-radius: 34px;
+            border: 1px solid var(--glass-border);
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 14px;
+            width: 14px;
+            left: 4px;
+            bottom: 3px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+
+        input:checked + .slider { background-color: var(--primary); }
+        input:checked + .slider:before { transform: translateX(22px); }
+
+        .ai-settings {
+            display: flex;
+            flex-direction: column;
+            gap: 1.2rem;
+        }
+
+        .ai-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        input[type="password"] {
+            width: 100%;
+            padding: 0.8rem 1rem;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            color: white;
+            font-size: 0.85rem;
+            font-family: 'Inter', sans-serif;
+        }
+
+        @media (max-width: 1000px) { ... }
+    </style>
+</head>
+<body>
+
+    <div class="dashboard">
+        <div class="sidebar">
+            <div class="card header">
+                <h1>Intelligence Room</h1>
+                <p class="subtitle">Universal gathering suite for AI Reception Assistants. Synthesizing raw website data into RAG-ready atomic facts.</p>
+                
+                <div class="progress-bar-container">
+                    <div id="progressBar" class="progress-bar"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <form id="crawlForm" class="input-group">
+                    <label style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 4px;">TARGET BASE URL</label>
+                    <input type="url" id="urlInput" placeholder="https://example-university.edu" required autocomplete="off">
+                    
+                    <div style="margin: 1.5rem 0;" class="stats-grid">
+                        <div class="stat-card">
+                            <span id="statPages" class="stat-value">0</span>
+                            <span class="stat-label">Pages</span>
+                        </div>
+                        <div class="stat-card">
+                            <span id="statFacts" class="stat-value">0</span>
+                            <span class="stat-label">Facts</span>
+                        </div>
+                    </div>
+
+                    <button type="submit" id="startBtn">Start Research</button>
+                    <button type="button" id="downloadBtn">Download Knowledge Base</button>
+                </form>
+            </div>
+
+            <div class="card">
+                <div class="ai-settings">
+                    <div class="ai-header">
+                        <div>
+                            <h3 style="font-size: 0.95rem; font-weight: 600;">Smart AI Extraction</h3>
+                            <p style="font-size: 0.75rem; color: var(--text-muted);">Use Gemini 1.5 Flash</p>
+                        </div>
+                        <label class="switch">
+                            <input type="checkbox" id="aiToggle">
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+                    <div id="aiKeySection" style="display: none; animation: slideIn 0.3s ease;">
+                        <label style="font-size: 0.75rem; color: var(--text-muted); display: block; margin-bottom: 6px;">GEMINI API KEY</label>
+                        <input type="password" id="apiKeyInput" placeholder="Enter your API key">
+                        <p style="font-size: 0.65rem; color: var(--text-muted); margin-top: 8px;">Key is stored only in your browser session for security.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card" id="currentInfo" style="display: none;">
+                <h3 style="font-size: 0.9rem; margin-bottom: 0.5rem;">Processing Archive</h3>
+                <div id="logArea" style="font-size: 0.8rem; height: 120px; overflow-y: auto; color: var(--text-muted); line-height: 1.6;">
+                    System ready for input...
+                </div>
+            </div>
+        </div>
+
+        <div class="main-feed">
+            <div class="feed-header">
+                <h2 style="font-weight: 600; font-size: 1.1rem; letter-spacing: 0.05em; color: #cbd5e1;">LIVE KNOWLEDGE STREAM</h2>
+                <div id="activeIndicator" class="pulse-indicator">
+                    <div class="pulse-dot"></div>
+                    <span>SYNC ACTIVE</span>
+                </div>
+            </div>
+
+            <div id="factStream" class="fact-stream">
+                <!-- Facts will appear here -->
+                <div style="text-align: center; margin-top: 100px; color: var(--text-muted);">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin-bottom: 1rem; opacity: 0.3;">
+                        <path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke-linecap="round"/>
+                    </svg>
+                    <p>Enter a URL to start synthesizing intelligence.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById('crawlForm');
+        const urlInput = document.getElementById('urlInput');
+        const startBtn = document.getElementById('startBtn');
+        const downloadBtn = document.getElementById('downloadBtn');
+        const factStream = document.getElementById('factStream');
+        const logArea = document.getElementById('logArea');
+        const currentInfo = document.getElementById('currentInfo');
+        const statPages = document.getElementById('statPages');
+        const statFacts = document.getElementById('statFacts');
+        const progressBar = document.getElementById('progressBar');
+        const activeIndicator = document.getElementById('activeIndicator');
+        const aiToggle = document.getElementById('aiToggle');
+        const aiKeySection = document.getElementById('aiKeySection');
+        const apiKeyInput = document.getElementById('apiKeyInput');
+
+        // Restore settings from session storage
+        if (sessionStorage.getItem('gemini_api_key')) {
+            apiKeyInput.value = sessionStorage.getItem('gemini_api_key');
+            aiToggle.checked = true;
+            aiKeySection.style.display = 'block';
+        }
+
+        aiToggle.addEventListener('change', () => {
+            aiKeySection.style.display = aiToggle.checked ? 'block' : 'none';
+        });
+
+        apiKeyInput.addEventListener('input', () => {
+            sessionStorage.setItem('gemini_api_key', apiKeyInput.value);
+        });
+
+        let totalFacts = 0;
+        let ws = null;
+
+        function connectWS() {
+            const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            ws = new WebSocket(`${protocol}//${window.location.host}/ws`);
+
+            ws.onopen = () => {
+                console.log("WebSocket connected");
+            };
+
+            ws.onmessage = (event) => {
+                const data = JSON.parse(event.data);
+                handleWSUpdate(data);
+            };
+
+            ws.onclose = () => {
+                console.log("WebSocket disconnected, retrying...");
+                setTimeout(connectWS, 2000);
+            };
+        }
+
+        function handleWSUpdate(data) {
+            if (data.type === 'fact_discovery') {
+                updateStats(data.crawled_count, data.facts.length);
+                renderFacts(data.facts, data.url);
+                addLog(`Analyzed: ${data.url} (${data.facts.length} facts extracted)`);
+            } else if (data.status === 'completed') {
+                finishCrawl();
+            } else if (data.type === 'error') {
+                addLog(`Error: ${data.error}`, true);
+            }
+        }
+
+        function updateStats(pages, newFacts) {
+            statPages.textContent = pages;
+            totalFacts += newFacts;
+            statFacts.textContent = totalFacts;
+            
+            // Progress estimation (100 is max pages in config usually, so we ballpark)
+            let progress = (pages / 100) * 100;
+            progressBar.style.width = `${Math.min(progress, 100)}%`;
+        }
+
+        function addLog(msg, isError = false) {
+            const time = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+            const logItem = document.createElement('div');
+            logItem.style.color = isError ? '#f87171' : 'var(--text-muted)';
+            logItem.textContent = `[${time}] ${msg}`;
+            logArea.prepend(logItem);
+        }
+
+        function renderFacts(facts, url) {
+            if (totalFacts === facts.length) {
+                // First batch, clear placeholder
+                factStream.innerHTML = '';
+            }
+
+            facts.forEach(fact => {
+                const card = document.createElement('div');
+                card.className = 'fact-card';
+                card.innerHTML = `
+                    <div class="fact-meta">
+                        <span class="category-badge cat-${fact.category}">${fact.category}</span>
+                        <span class="fact-id">#${fact.id}</span>
+                    </div>
+                    <div class="fact-text">${fact.fact}</div>
+                    <span class="fact-url">Source: ${url}</span>
+                `;
+                factStream.prepend(card);
+            });
+        }
+
+        function finishCrawl() {
+            activeIndicator.classList.remove('active');
+            startBtn.disabled = false;
+            startBtn.textContent = 'Start New Research';
+            startBtn.style.background = 'linear-gradient(135deg, var(--accent), #059669)';
+            downloadBtn.style.display = 'block';
+            addLog("Intelligence gathering mission completed.");
+        }
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const url = urlInput.value.trim();
+            if (!url) return;
+
+            // Reset UI
+            totalFacts = 0;
+            statPages.textContent = '0';
+            statFacts.textContent = '0';
+            progressBar.style.width = '0%';
+            factStream.innerHTML = '';
+            logArea.innerHTML = '';
+            currentInfo.style.display = 'block';
+            activeIndicator.classList.add('active');
+            
+            startBtn.disabled = true;
+            startBtn.textContent = 'Observing Website...';
+            downloadBtn.style.display = 'none';
+
+            try {
+                const use_ai = aiToggle.checked;
+                const api_key = apiKeyInput.value.trim();
+
+                const response = await fetch('/api/crawl', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ 
+                        url,
+                        use_ai,
+                        api_key: use_ai ? api_key : null
+                    })
+                });
+
+                if (!response.ok) throw new Error('Failed to initiate drone');
+                addLog(`Engagement started for ${url}${use_ai ? ' (AI Enhanced)' : ''}`);
+
+            } catch (error) {
+                addLog(error.message, true);
+                startBtn.disabled = false;
+                startBtn.textContent = 'Retry Engagement';
+            }
+        });
+
+        downloadBtn.addEventListener('click', () => {
+            window.location.href = '/api/download';
+        });
+
+        // Initialize WebSocket connection
+        connectWS();
+    </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+2026-04-18 11:30:52,942 - INFO - [crawler] Starting crawl for https://www.acuronai.com/
+2026-04-18 11:30:57,416 - INFO - [crawler] Crawling: https://www.acuronai.com/ (depth=0)
+2026-04-18 11:31:11,502 - INFO - [google_genai.models] AFC is enabled with max remote calls: 10.
+2026-04-18 11:31:11,753 - INFO - [httpx] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 404 Not Found"
+2026-04-18 11:31:11,782 - INFO - [crawler] Saved: https://www.acuronai.com/ with 17 facts
+2026-04-18 11:31:11,803 - INFO - [crawler] Crawl completed. Total pages processed: 1

@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  crawler:
+    build: .
+    restart: always
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount data volume so that knowledge base and logs persist across restarts
+      - crawler_data:/app/data
+      # Mount public volume if the scraper needs to save downloaded static assets
+      - crawler_public:/app/public
+
+volumes:
+  crawler_data:
+  crawler_public:

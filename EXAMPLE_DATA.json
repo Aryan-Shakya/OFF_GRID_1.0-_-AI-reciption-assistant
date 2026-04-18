@@ -1,0 +1,3012 @@
+[
+    {
+        "id": "1",
+        "category": "faculty",
+        "fact": "Dr. Ram Kunwer is an Associate Professor at DYPIU who specializes in Thermal Engineering. He is actively involved in teaching core mechanical subjects and contributes to research in heat transfer and energy systems."
+    },
+    {
+        "id": "2",
+        "category": "faculty",
+        "fact": "Yes, Dr. Pranjali Tete is one such faculty member who focuses on Battery Thermal Management Systems, Thermal Engineering, and Solar Energy. Her work is especially relevant in sustainable energy solutions and electric vehicle technologies."
+    },
+    {
+        "id": "3",
+        "category": "faculty",
+        "fact": "Yes, Vijay Laxmi Pinjan is an Assistant Professor at DYPIU with expertise in Visualization. She works with students on developing visual communication skills and creative representation techniques."
+    },
+    {
+        "id": "4",
+        "category": "faculty",
+        "fact": "Dr. Paresh Kulkarni specializes in Manufacturing and Quality Management. He helps students understand industrial processes, production systems, and quality control practices used in modern industries."
+    },
+    {
+        "id": "5",
+        "category": "faculty",
+        "fact": "Yes, Abhijeet Avinash Pawar is a faculty member in the field of Physics. He is involved in teaching fundamental physics concepts and supporting students in building a strong scientific foundation."
+    },
+    {
+        "id": "6",
+        "category": "faculty",
+        "fact": "Dr. Pragati Choudhari is one of the faculty members who specializes in Machine Learning and Deep Learning. She guides students in understanding AI concepts and applying them to real-world problems."
+    },
+    {
+        "id": "7",
+        "category": "faculty",
+        "fact": "Dr. Laxmi Priya Sahu is an Assistant Professor in Electronics and Communication Engineering. She teaches core subjects and helps students build knowledge in communication systems and electronics."
+    },
+    {
+        "id": "8",
+        "category": "faculty",
+        "fact": "Dr. Sanjay Badhe works in Data Science, Machine Learning, and Speech Processing. His work combines data analysis with intelligent systems, making it useful in AI-driven applications."
+    },
+    {
+        "id": "9",
+        "category": "faculty",
+        "fact": "Sunayana Bisalapur is known for her work in Networking. She helps students understand how computer networks function and how data is transmitted securely."
+    },
+    {
+        "id": "10",
+        "category": "faculty",
+        "fact": "Dr. Anurag Das focuses on Power Systems Engineering, where he works on electrical power generation, transmission, and distribution concepts."
+    },
+    {
+        "id": "11",
+        "category": "faculty",
+        "fact": "Dr. Pravin Savata Gade specializes in Analytical Chemistry and Nanobiosensors. His research often involves advanced chemical analysis and developing sensor-based technologies."
+    },
+    {
+        "id": "12",
+        "category": "faculty",
+        "fact": "Yes, Dr. Manoj Kumar is a faculty member specializing in Molecular Microbiology and Virology. His work is related to studying microorganisms and their impact on health and the environment."
+    },
+    {
+        "id": "13",
+        "category": "faculty",
+        "fact": "Dr. Dasharath D. Kondhare works in Medicinal Chemistry, where he contributes to research related to drug development and pharmaceutical sciences."
+    },
+    {
+        "id": "14",
+        "category": "faculty",
+        "fact": "Dr. Jyoti Shakya works in Physics, particularly in Quantum Materials. Her research involves studying advanced materials and their quantum-level properties."
+    },
+    {
+        "id": "15",
+        "category": "faculty",
+        "fact": "Dr. Sangeeta Benni teaches Engineering Chemistry and helps students understand chemical principles relevant to engineering applications."
+    },
+    {
+        "id": "16",
+        "category": "faculty",
+        "fact": "Dr. Anju Chaurasia specializes in Mathematics and Statistics, helping students build strong analytical and problem-solving skills."
+    },
+    {
+        "id": "17",
+        "category": "faculty",
+        "fact": "Yes, Dr. Vandna Srivastava is an Associate Professor who works in Cosmology and Mathematics, combining theoretical concepts with mathematical modeling."
+    },
+    {
+        "id": "18",
+        "category": "faculty",
+        "fact": "DYPIU has multiple Mathematics faculty members. Dr. Vinodkumar Ghale is one of them, teaching core mathematical concepts to engineering students across departments."
+    },
+    {
+        "id": "19",
+        "category": "faculty",
+        "fact": "Yes, DYPIU has faculty members specifically focused on Mathematics. Dr. Rishikant Rajdeepak is one such Assistant Professor who focuses on teaching and academic research in the subject."
+    },
+    {
+        "id": "20",
+        "category": "faculty",
+        "fact": "Dr. Anurag Kumar specializes in Computational Physics, where he applies computational methods to solve complex physical problems."
+    },
+    {
+        "id": "21",
+        "category": "faculty",
+        "fact": "Mr. Sandeep Dongare specializes in Film Studies and Visual Arts, guiding students in storytelling and cinematic techniques."
+    },
+    {
+        "id": "22",
+        "category": "faculty",
+        "fact": "Dr. Rahul M. Weldode focuses on Illustration and Typography, helping students develop visual communication skills."
+    },
+    {
+        "id": "23",
+        "category": "faculty",
+        "fact": "Mr. Tushar Kshirsagar works in UI/UX design and Motion Graphics, preparing students for careers in digital design."
+    },
+    {
+        "id": "24",
+        "category": "faculty",
+        "fact": "Aziz Poonawala is known for his expertise in Graphic Design and visual storytelling."
+    },
+    {
+        "id": "25",
+        "category": "faculty",
+        "fact": "Dr. Atul Ramdas Kolhe specializes in Construction Engineering and Management, focusing on infrastructure and project planning."
+    },
+    {
+        "id": "26",
+        "category": "faculty",
+        "fact": "Yes, Vaishnavi Vishnu Battul is an Assistant Professor in Civil Engineering, contributing to teaching and technical training in civil domains."
+    },
+    {
+        "id": "27",
+        "category": "faculty",
+        "fact": "Tejashri Satish Gulve works in Structural Engineering, focusing on design and analysis of structures."
+    },
+    {
+        "id": "28",
+        "category": "faculty",
+        "fact": "Yes, Dr. Swapnil Bhurat specializes in Automotive Engineering, particularly in vehicle systems and design, preparing students for careers in the automotive industry."
+    },
+    {
+        "id": "29",
+        "category": "faculty",
+        "fact": "Dr. Amit M Umbrajkar focuses on Design Engineering and helps students understand product design and development."
+    },
+    {
+        "id": "30",
+        "category": "faculty",
+        "fact": "Dr. Dipika Pradhan works in AI, Machine Learning, and IoT, helping students build smart technology solutions."
+    },
+    {
+        "id": "31",
+        "category": "faculty",
+        "fact": "Dr. Somya Dubey is the faculty member who focuses on Cyber Security. Along with that, she also works in Artificial Intelligence, so her teaching and research often connect secure systems with intelligent technologies."
+    },
+    {
+        "id": "32",
+        "category": "faculty",
+        "fact": "Achal Ravindra Katware is a faculty member in the Computer Science domain whose main focus is on Data Science. He helps students understand how to work with data and build practical, data-driven solutions."
+    },
+    {
+        "id": "33",
+        "category": "faculty",
+        "fact": "Yes, Prof. Chandrashekhar Goswami is a senior faculty member in Computer Science Engineering. He has extensive experience in both teaching and research and plays an important role in guiding students academically."
+    },
+    {
+        "id": "34",
+        "category": "faculty",
+        "fact": "Dr. Dipti is the faculty member associated with VLSI design. Her work mainly revolves around semiconductor technologies and chip-level system design, which are essential areas in electronics engineering."
+    },
+    {
+        "id": "35",
+        "category": "faculty",
+        "fact": "Dr. Priyanka Dhoot handles subjects related to Finance and FinTech. She helps students understand how financial systems are evolving with technology, including digital payments and modern financial tools."
+    },
+    {
+        "id": "36",
+        "category": "faculty",
+        "fact": "Yes, Dr. Arun Sacher serves as Associate Dean at DYPIU. His expertise lies in Strategic HR and Organizational Behavior, focusing on leadership, management practices, and how organizations function effectively."
+    },
+    {
+        "id": "37",
+        "category": "faculty",
+        "fact": "Marketing subjects are taught by Ranjeet Dattatray More. He helps students learn about market strategies, branding, and consumer behavior in a practical and industry-relevant way."
+    },
+    {
+        "id": "38",
+        "category": "faculty",
+        "fact": "Doyel Dutta is the faculty member who specializes in Advertising and Public Relations. She guides students in understanding media communication, branding, and how organizations manage their public image."
+    },
+    {
+        "id": "39",
+        "category": "faculty",
+        "fact": "Dr. Pooja Roy Dasgupta focuses on Human Resource Management. Her work mainly deals with organizational development, employee management, and building effective workplace environments."
+    },
+    {
+        "id": "40",
+        "category": "faculty",
+        "fact": "Asha Ayakar specializes in Embedded Systems and Digital Systems. She works on areas where hardware and software come together, helping students understand how real-world electronic systems are built."
+    },
+    {
+        "id": "41",
+        "category": "faculty",
+        "fact": "Chetan Pawar is associated with Energy Engineering. His work focuses on efficient and sustainable energy systems, which are becoming increasingly important in today\u2019s world."
+    },
+    {
+        "id": "42",
+        "category": "faculty",
+        "fact": "Lakshmipraba Balaji teaches Applied Electronics. She helps students understand how electronic concepts are used in practical systems and real-world applications."
+    },
+    {
+        "id": "43",
+        "category": "faculty",
+        "fact": "The faculty at DYPIU come with a mix of academic and industry experience. Many of them hold PhDs and have worked on research projects, while others bring practical industry exposure, which helps students connect theory with real-world applications."
+    },
+    {
+        "id": "44",
+        "category": "faculty",
+        "fact": "DYPIU has a structured academic setup that includes Professors, Associate Professors, Assistant Professors, and Visiting Faculty. Each role contributes differently, from teaching and mentoring to research and academic leadership."
+    },
+    {
+        "id": "45",
+        "category": "faculty",
+        "fact": "The faculty at DYPIU come from a wide range of disciplines. These include core engineering branches, design, science, management, media, and also emerging fields like Artificial Intelligence and IoT."
+    },
+    {
+        "id": "46",
+        "category": "faculty",
+        "fact": "Yes, DYPIU does have multiple faculty members working in AI and Machine Learning. These areas are a strong focus at the university, and students get exposure to both theoretical and practical aspects."
+    },
+    {
+        "id": "47",
+        "category": "faculty",
+        "fact": "Yes, there are faculty members who work in areas related to biotechnology, microbiology, and bioprocess engineering. These fields are important for research in healthcare, environment, and food sciences."
+    },
+    {
+        "id": "48",
+        "category": "faculty",
+        "fact": "Yes, the faculty are generally approachable and encourage student interaction. Whether it\u2019s for academic doubts, project guidance, or career advice, students can reach out and have meaningful discussions."
+    },
+    {
+        "id": "49",
+        "category": "faculty",
+        "fact": "Definitely. Faculty members play an important role in guiding students through projects, especially in final-year work and research-based assignments. They help students shape ideas and improve their technical approach."
+    },
+    {
+        "id": "50",
+        "category": "faculty",
+        "fact": "Yes, interdisciplinary collaboration is encouraged. Faculty from different departments often work together, especially in areas like AI, healthcare, design, and engineering."
+    },
+    {
+        "id": "51",
+        "category": "courses_fees",
+        "fact": "DYPIU has 9 schools: School of CSE & Applications (SoCSEA), School of Commerce & Management (SoCM), School of Design (SoD), School of Biosciences & Bioengineering (SoBB), School of Humanities & Social Sciences, School of Media & Journalism (SoMJ), School of Applied Arts & Crafts (SoAAC), School of Engineering, Management & Research (SoEMR), and School of Continuing Education. There is also a Centre for Interdisciplinary Studies & Research offering PhD and Postdoctoral programs."
+    },
+    {
+        "id": "52",
+        "category": "courses_fees",
+        "fact": "The School of CSE & Applications (SoCSEA) is the right fit. It offers B.Tech in CSE, B.Tech CSE in AI & ML (with IBM), B.Tech CSE in Cyber Security & Forensics (with IBM), M.Tech in Quantum Computing, BCA (Hons.), MCA, and M.Sc. in Computational Mathematics \u2014 covering everything from undergraduate to postgraduate in the tech domain."
+    },
+    {
+        "id": "53",
+        "category": "courses_fees",
+        "fact": "The School of Commerce & Management (SoCM) offers three programs: BBA (Hons.) for undergraduates, MBA in Digital Business for postgraduates, and MBA Executive for working professionals. All three are distinct in their focus and eligibility, so the right choice depends on her current qualification and career stage."
+    },
+    {
+        "id": "54",
+        "category": "courses_fees",
+        "fact": "Yes. The School of Continuing Education is specifically designed for working professionals and offers B.Tech in Mechanical Engineering, B.Tech in Electrical Engineering, and M.Tech in Electric Vehicles. Additionally, the MBA Executive program under SoCM is also tailored for professionals with managerial or supervisory work experience."
+    },
+    {
+        "id": "55",
+        "category": "courses_fees",
+        "fact": "DYPIU offers PhD programs and Postdoctoral Research through its Centre for Interdisciplinary Studies and Research. These are the highest academic qualifications available at the university, open to candidates with relevant postgraduate degrees."
+    },
+    {
+        "id": "56",
+        "category": "courses_fees",
+        "fact": "Yes. The School of Design offers B.Design, the School of Applied Arts & Crafts offers Bachelor of Fine Arts (BFA), and the School of Media & Journalism offers B.A. in Journalism & Mass Communication (Hons.) and M.A. in Journalism & Mass Communication."
+    },
+    {
+        "id": "57",
+        "category": "courses_fees",
+        "fact": "The B.Tech in Computer Science and Engineering at DYPIU is a four-year full-time program under SoCSEA. It is designed with innovative multi-track specialization options in emerging areas, developed after worldwide consultations with researchers, industry professionals, and start-ups. Students build strong fundamentals in computing along with specialized domain knowledge of their choice."
+    },
+    {
+        "id": "58",
+        "category": "courses_fees",
+        "fact": "B.Tech CSE offers 10 specialization tracks, chosen after the 4th semester: AI and Machine Learning, Data Science, Robotics and Artificial Intelligence, Intelligent Transport System and Logistics, IoT \u2013 Internet of Things, Cyber Security, FinTech (Financial Technology), Bio-Informatics, Cloud Computing, and Web and Mobile Application. The university provides guidance to help students align their track choice with their career goals."
+    },
+    {
+        "id": "59",
+        "category": "courses_fees",
+        "fact": "Track selection happens after the completion of the 4th semester. Before that, all students follow a common curriculum. DYPIU provides comprehensive guidance and resources to help students make an informed decision about which specialization track best fits their career aspirations."
+    },
+    {
+        "id": "60",
+        "category": "courses_fees",
+        "fact": "The student must have passed 10+2 with Physics and Mathematics, along with one of the following: Chemistry, Computer Science, Electronics, Information Technology, Biology, Informatics Practices, Biotechnology, Technical Vocational subjects, Agriculture, Engineering Graphics, Business Studies, or Entrepreneurship. A minimum of 50% marks (45% for reserved categories) is required. The student must also have qualified at least one engineering entrance exam such as MHT-CET 2026, JEE 2026, PERA 2026, or the DYPIU Entrance Test."
+    },
+    {
+        "id": "61",
+        "category": "courses_fees",
+        "fact": "Yes, absolutely. A student with Physics, Chemistry, and Mathematics in 10+2 with at least 50% marks (45% for reserved category) and a valid score in MHT-CET, JEE, PERA, or DYPIU's entrance test is fully eligible for B.Tech CSE."
+    },
+    {
+        "id": "62",
+        "category": "courses_fees",
+        "fact": "The tuition fee for B.Tech CSE is \u20b91,30,000 per semester. Additionally, a registration fee of \u20b92,500 per semester and a one-time refundable caution deposit of \u20b910,000 at admission are applicable. So the annual tuition works out to \u20b92,60,000. Semester fees may change as per the Fee Fixation Committee approval."
+    },
+    {
+        "id": "63",
+        "category": "courses_fees",
+        "fact": "B.Tech CSE has 8 semesters at \u20b91,30,000 per semester, making the total tuition \u20b910,40,000 over 4 years. On top of this, a registration fee of \u20b92,500 per semester (\u20b920,000 over 8 semesters) and a one-time refundable caution deposit of \u20b910,000 apply. So the total outflow is approximately \u20b910,70,000, of which \u20b910,000 is refundable at the end of the program."
+    },
+    {
+        "id": "64",
+        "category": "courses_fees",
+        "fact": "Candidates are selected based on entrance test score and merit. Accepted entrance exams include MHT-CET 2026, JEE 2026, other state or national level engineering entrance exams, PERA 2026, and the entrance test conducted by DYPIU itself."
+    },
+    {
+        "id": "65",
+        "category": "courses_fees",
+        "fact": "B.Tech CSE in AI & ML is offered in association with IBM and is a four-year undergraduate degree that combines strong computer science foundations with industry-aligned AI and ML technologies powered by IBM. Unlike regular CSE which lets students choose from 10 tracks after year 2, the AI & ML program is itself a focused specialization from day one \u2014 covering intelligent systems, data-driven modelling, and cognitive computing using IBM enterprise tools."
+    },
+    {
+        "id": "66",
+        "category": "courses_fees",
+        "fact": "IBM's involvement includes integration of IBM Watson Studio, IBM watsonx, and IBM Cloud into the curriculum. Students work with advanced algorithms, numerical methods, optimization techniques, and probability models through IBM-led enterprise technology practices. The program also includes a capstone project addressing real-world business problems using AI and ML."
+    },
+    {
+        "id": "67",
+        "category": "courses_fees",
+        "fact": "Key learning areas include Artificial Intelligence Fundamentals, Machine Learning & Deep Learning, Natural Language Processing (NLP), Computer Vision, and Generative AI. Core tools used include Python, TensorFlow, PyTorch, and Apache Spark. The focus is on intelligent systems, data-driven modelling, and cognitive computing."
+    },
+    {
+        "id": "68",
+        "category": "courses_fees",
+        "fact": "The eligibility is the same as B.Tech CSE: 10+2 with Physics & Mathematics and one additional subject (Chemistry, CS, Electronics, IT, Biology, Biotech, etc.), with a minimum of 50% marks (45% for reserved categories). A valid entrance exam score from MHT-CET 2026, JEE 2026, PERA 2026, or DYPIU's own entrance test is also required."
+    },
+    {
+        "id": "69",
+        "category": "courses_fees",
+        "fact": "The tuition fee is \u20b91,50,000 per semester, along with \u20b92,500 registration fee per semester and a one-time refundable caution deposit of \u20b910,000. The annual tuition comes to \u20b93,00,000. Over 4 years (8 semesters), the total tuition is \u20b912,00,000. Semester fees may change as per Fee Fixation Committee approval."
+    },
+    {
+        "id": "70",
+        "category": "courses_fees",
+        "fact": "The \u20b920,000 per semester difference buys industry-grade IBM tool access (Watson Studio, watsonx, IBM Cloud), an IBM-aligned curriculum built around enterprise AI practices, and a capstone project tied to real business problems. For a student targeting AI/ML roles in large enterprises, the IBM credential and hands-on platform exposure can be a meaningful differentiator. That said, the regular CSE program also offers an AI & ML track, so the IBM program is best suited for students who are certain about this domain from the start."
+    },
+    {
+        "id": "71",
+        "category": "courses_fees",
+        "fact": "B.Tech CSE in Cyber Security & Forensics is a four-year undergraduate program offered in association with IBM under SoCSEA. It focuses on securing information systems, network defence, threat analysis, and digital investigation. The program combines strong CS fundamentals with IBM-powered cybersecurity tools and real-world forensic investigation skills."
+    },
+    {
+        "id": "72",
+        "category": "courses_fees",
+        "fact": "Key learning areas include Ethical Hacking, Cryptography, Digital Forensics, Malware Analysis, and Cloud & Network Security. IBM tools used include IBM QRadar (SIEM) and security monitoring on IBM Cloud. Core tools include Kali Linux, Wireshark, Metasploit, and Autopsy. The capstone involves simulated incident response, security audits, and compliance projects."
+    },
+    {
+        "id": "73",
+        "category": "courses_fees",
+        "fact": "Eligibility is the same as B.Tech CSE: 10+2 with Physics & Mathematics plus one additional subject, minimum 50% marks (45% for reserved categories), and a valid score in MHT-CET 2026, JEE 2026, PERA 2026, or DYPIU's entrance test."
+    },
+    {
+        "id": "74",
+        "category": "courses_fees",
+        "fact": "The tuition fee is \u20b91,30,000 per semester, with a \u20b92,500 registration fee per semester and a one-time refundable caution deposit of \u20b910,000. Annual tuition is \u20b92,60,000, and the total tuition over 4 years is \u20b910,40,000. Semester fees may change as per Fee Fixation Committee approval."
+    },
+    {
+        "id": "75",
+        "category": "courses_fees",
+        "fact": "Both are 4-year IBM-associated B.Tech programs under SoCSEA, but they cover completely different domains. AI & ML focuses on building intelligent systems \u2014 machine learning, NLP, computer vision, and generative AI using IBM Watson tools. Cyber Security & Forensics focuses on protecting systems \u2014 ethical hacking, threat analysis, digital forensics, and network defence using IBM QRadar and security tools. The fee for AI & ML is \u20b91,50,000/sem while Cyber Security is \u20b91,30,000/sem."
+    },
+    {
+        "id": "76",
+        "category": "courses_fees",
+        "fact": "M.Tech (CSE) with specialization in Quantum Computing is a 2-year full-time postgraduate program at SoCSEA, aligned with NEP 2020. It provides a strong foundation in advanced computer science concepts while offering in-depth specialization in the theory, algorithms, and applications of Quantum Computing and Quantum Technologies."
+    },
+    {
+        "id": "77",
+        "category": "courses_fees",
+        "fact": "It is designed for engineering graduates who want to build careers in quantum computing, quantum information science, and related computer science research and development fields. The program is particularly suited for those interested in applying quantum mechanics and mathematics to design quantum algorithms for complex real-world problems."
+    },
+    {
+        "id": "78",
+        "category": "courses_fees",
+        "fact": "Candidates must have a Bachelor's degree in Engineering or Technology from an AICTE or government-approved institution with at least 50% marks (45% for Backward Class, EWS, and PwD candidates in Maharashtra). A valid GATE score is required. For sponsored candidates, a minimum of 2 years of full-time work experience in a registered firm, industry, or research/educational institution in the relevant field is also needed."
+    },
+    {
+        "id": "79",
+        "category": "courses_fees",
+        "fact": "Yes, a valid GATE score is required for admission to M.Tech (CSE) in Quantum Computing. Sponsored candidates additionally need 2 years of relevant full-time work experience. Selection is based on GATE score and merit in the entrance examination conducted by the competent authority."
+    },
+    {
+        "id": "80",
+        "category": "courses_fees",
+        "fact": "The tuition fee is \u20b955,000 per semester, with a \u20b92,500 registration fee per semester and a one-time refundable caution deposit of \u20b910,000. Annual tuition comes to \u20b91,10,000, and the total tuition over 2 years (4 semesters) is \u20b92,20,000. Semester fees may change as per Fee Fixation Committee approval."
+    },
+    {
+        "id": "81",
+        "category": "courses_fees",
+        "fact": "Quantum Computing is one of the most emerging and high-investment fields globally, with companies like IBM, Google, and Microsoft actively building quantum capabilities. The M.Tech at DYPIU is NEP 2020 aligned and focuses on quantum algorithms, quantum information science, and real-world applications \u2014 preparing graduates for research, development, and industry roles in this rapidly growing domain. The GATE requirement also ensures the peer group is academically strong."
+    },
+    {
+        "id": "82",
+        "category": "courses_fees",
+        "fact": "BCA (Hons.) at DYPIU is a 4-year program aligned with NEP 2020, compared to a standard BCA which is typically 3 years. The Hons. version allows deeper specialization through track selection at the end of the 4th semester and prepares students for advanced IT careers with skills benchmarked against international requirements \u2014 covering creative problem-solving, logical reasoning, software development, and emerging domains like AI and Cloud Computing."
+    },
+    {
+        "id": "83",
+        "category": "courses_fees",
+        "fact": "BCA (Hons.) students choose one of two specialization tracks at the end of the 4th semester: Cloud & System Administration or Mobile Applications & Web Technology. Cloud & System Administration leads to careers in DevOps, cloud architecture, and cloud security. Mobile Applications & Web Technology prepares students for roles in app development, UI/UX, and digital entrepreneurship."
+    },
+    {
+        "id": "84",
+        "category": "courses_fees",
+        "fact": "Yes. BCA (Hons.) accepts students from any stream in 10+2 with a minimum of 45% marks (40% for reserved categories). DYPIU also offers bridge courses in Mathematics, Physics, and Engineering Drawing for students from diverse backgrounds to ensure they can meet the program's learning outcomes without being disadvantaged."
+    },
+    {
+        "id": "85",
+        "category": "courses_fees",
+        "fact": "Yes. Apart from 10+2 from any stream, a pass in Diploma in Commercial Practice or equivalent is also accepted as a qualifying credential for BCA (Hons.) at DYPIU."
+    },
+    {
+        "id": "86",
+        "category": "courses_fees",
+        "fact": "Students must have passed 10+2 from any stream (or equivalent diploma) with at least 45% marks (40% for reserved categories). Selection is based on scores in MH-CET, JEE, PERA CET, CUET, or the DYPIU Entrance Test, along with a Personal Interaction."
+    },
+    {
+        "id": "87",
+        "category": "courses_fees",
+        "fact": "The tuition fee for BCA (Hons.) is \u20b987,500 per semester, with a \u20b92,500 registration fee per semester and a one-time refundable caution deposit of \u20b910,000. Annual tuition is \u20b91,75,000, and the total tuition over 4 years (8 semesters) is \u20b97,00,000. Semester fees may change as per Fee Fixation Committee approval."
+    },
+    {
+        "id": "88",
+        "category": "courses_fees",
+        "fact": "BCA (Hons.) graduates can directly progress into postgraduate studies such as MCA, MBA, or other advanced certifications. The program is also designed to prepare students for seamless entry into integrated degree options. With the Cloud or Mobile track specialization, graduates are also industry-ready for IT roles immediately after completion."
+    },
+    {
+        "id": "89",
+        "category": "courses_fees",
+        "fact": "MCA (Master of Computer Applications) at DYPIU is a 2-year postgraduate program under SoCSEA designed to develop highly capable IT professionals. It focuses on application-oriented skills, creative problem-solving, and logical reasoning. The program is ideal for graduates who want to deepen their computing expertise and specialize in either Artificial Intelligence & Data Science or Cyber Security."
+    },
+    {
+        "id": "90",
+        "category": "courses_fees",
+        "fact": "MCA offers two tracks: Artificial Intelligence & Data Science, and Cyber Security. Students gain in-depth knowledge in their chosen specialization to develop high-level skills that address real-world societal and technical challenges."
+    },
+    {
+        "id": "91",
+        "category": "courses_fees",
+        "fact": "Candidates need a Bachelor's degree with a computing or IT background. For precise eligibility requirements including minimum marks and accepted entrance scores, please contact the admissions office at admission@dypiu.ac.in or call +91 9071123434, as detailed MCA eligibility criteria were not published on the main program page."
+    },
+    {
+        "id": "92",
+        "category": "courses_fees",
+        "fact": "Based on available information, the tuition fee for MCA is approximately \u20b980,000 per semester, with a \u20b92,500 registration fee per semester and a one-time refundable caution deposit of \u20b910,000. Please confirm the latest fee with the admissions office at admission@dypiu.ac.in as semester fees may change per Fee Fixation Committee approval."
+    },
+    {
+        "id": "93",
+        "category": "courses_fees",
+        "fact": "M.Sc. in Computational Mathematics is a 2-year NEP 2020 aligned postgraduate program at SoCSEA. It sits at the intersection of mathematics and technology, combining rigorous mathematical theory with computational tools. The curriculum covers algorithms, optimization, probability, theoretical computer science, and mathematical modelling for AI and data science applications."
+    },
+    {
+        "id": "94",
+        "category": "courses_fees",
+        "fact": "This program is ideal for students who enjoy mathematics and want to apply it to technology-driven fields like AI, cryptography, finance, and data science. It is also a strong pathway for students targeting high-end research roles or competitive PhD programs, as the curriculum prepares graduates for global research labs and data analytics firms."
+    },
+    {
+        "id": "95",
+        "category": "courses_fees",
+        "fact": "The program covers three broad areas: Core Mathematics (Real Analysis, Abstract Algebra, Numerical Analysis, Differential Equations, Probability, Statistics, Optimization), Core Computing (Python/C++, Algorithms, Data Structures, Scientific Computing, Automata Theory), and Computational Focus (Mathematical Modelling, Simulation, Machine Learning, Data Analysis, AI Concepts)."
+    },
+    {
+        "id": "96",
+        "category": "courses_fees",
+        "fact": "Candidates must have a Bachelor's degree in Mathematics, Statistics, Physics, Computer Science, or Engineering with at least 45\u201350% aggregate marks (40% for reserved categories) from a recognized university."
+    },
+    {
+        "id": "97",
+        "category": "courses_fees",
+        "fact": "The tuition fee is \u20b955,000 per semester, with a \u20b92,500 registration fee per semester and a one-time refundable caution deposit of \u20b910,000. Annual tuition is \u20b91,10,000, and total tuition over 2 years (4 semesters) is \u20b92,20,000. Semester fees may change as per Fee Fixation Committee approval."
+    },
+    {
+        "id": "98",
+        "category": "courses_fees",
+        "fact": "BBA (Hons.) is a 4-year undergraduate program under the School of Commerce & Management. Key highlights include internships at the end of every year in rural, urban, and business environments, industry visits, regional and international study tours, IT and life skills development, certification programs, courses on business innovation, and an option to pursue an integrated MBA in the 5th year. The program is aligned with NEP and develops leadership, communication, analytical, and entrepreneurial skills."
+    },
+    {
+        "id": "99",
+        "category": "courses_fees",
+        "fact": "Yes. BBA (Hons.) is open to students from any stream in 10+2 with a minimum of 45% marks (40% for reserved categories). DYPIU offers bridge courses in Accountancy, Economics, and related subjects for students from non-commerce backgrounds to ensure they are at par with the program's learning expectations."
+    },
+    {
+        "id": "100",
+        "category": "courses_fees",
+        "fact": "Students must have passed 10+2 from any stream with at least 45% marks (40% for reserved categories). Selection is based on performance in MH-CET, JEE, PERA CET, CUET, the DYPIU Entrance Test, and/or a Personal Interaction round."
+    },
+    {
+        "id": "101",
+        "category": "courses_fees",
+        "fact": "The tuition fee for BBA (Hons.) is \u20b91,02,500 per semester, with a \u20b92,500 registration fee per semester and a one-time refundable caution deposit of \u20b910,000. Annual tuition is \u20b92,05,000, and total tuition over 4 years (8 semesters) is \u20b98,20,000. Semester fees may change as per Fee Fixation Committee approval."
+    },
+    {
+        "id": "102",
+        "category": "courses_fees",
+        "fact": "Yes. One of the highlights of the BBA (Hons.) program is the option to pursue an Integrated MBA Program in the 5th year. This allows motivated students to seamlessly continue into a management postgraduate degree without going through a separate admission process, saving both time and effort."
+    },
+    {
+        "id": "103",
+        "category": "courses_fees",
+        "fact": "BBA students get internships at the end of every year covering rural, urban, and business environments. The program also includes regular industry visits, hands-on training, IT and life skills development, regional and international study tours, and courses on business innovation and entrepreneurship. The focus is on making students industry-ready from early in the program."
+    },
+    {
+        "id": "104",
+        "category": "courses_fees",
+        "fact": "MBA in Digital Business is a 2-year postgraduate program under SoCM that takes a broad approach to the digitalization shaping modern business. It is designed for graduates who want to understand how to leverage digital transformation for business renewal, innovation, marketing, and digital services. The program has a multidisciplinary approach covering business administration, Digital Business, and Technology."
+    },
+    {
+        "id": "105",
+        "category": "courses_fees",
+        "fact": "MBA Digital Business offers three specialization tracks: FinTech, Marketing Analytics, and Supply Chain Management. It is important to note that these tracks are only conducted if a sufficient number of students register for that particular track."
+    },
+    {
+        "id": "106",
+        "category": "courses_fees",
+        "fact": "The FinTech track under MBA Digital Business focuses on financial technology, preparing students to understand and apply digital innovation in banking, payments, investments, and financial services. Students with a background in Commerce, Finance, Economics, Engineering, or IT are particularly well-suited for this track."
+    },
+    {
+        "id": "107",
+        "category": "courses_fees",
+        "fact": "It is genuinely both. The program combines theoretical management principles with real-world digital business applications. Students learn to analyze digital business opportunities, drive strategic change through technology, and create digitally-enabled ventures. It is not a pure tech program \u2014 it is a management program that fully integrates digital thinking into business decision-making."
+    },
+    {
+        "id": "108",
+        "category": "courses_fees",
+        "fact": "Candidates must have a Bachelor's degree of minimum 3 years duration with at least 50% marks (45% for reserved categories as per Maharashtra government rules). Selection is based on scores in MH-CET, PERA CET, CUET, the DYPIU Entrance Test, and/or a Personal Interaction. DYPIU also offers bridge courses for students from diverse backgrounds."
+    },
+    {
+        "id": "109",
+        "category": "courses_fees",
+        "fact": "The tuition fee is \u20b91,40,000 per semester, with a \u20b92,500 registration fee per semester and a one-time refundable caution deposit of \u20b910,000. Annual tuition is \u20b92,80,000, and the total tuition over 2 years (4 semesters) is \u20b95,60,000. Semester fees may change as per Fee Fixation Committee approval."
+    },
+    {
+        "id": "110",
+        "category": "courses_fees",
+        "fact": "MBA Executive is a 2-year postgraduate program under SoCM, uniquely designed for working professionals from diverse industries. It blends contemporary management theories with live business applications, industry interactions, case studies, and hands-on projects. It is ideal for professionals looking to advance into senior managerial or leadership roles."
+    },
+    {
+        "id": "111",
+        "category": "courses_fees",
+        "fact": "Both are 2-year MBA programs under SoCM, but they differ in target audience and focus. MBA Digital Business is for fresh graduates and centers on digital transformation and technology-driven business. MBA Executive is for working professionals with managerial experience and focuses on leadership, cross-functional decision-making, business analytics, and strategic thinking. The Executive program also has 5 specialization tracks compared to 3 in Digital Business."
+    },
+    {
+        "id": "112",
+        "category": "courses_fees",
+        "fact": "MBA Executive offers five specialization tracks: Marketing Analytics, FinTech, HR Analytics, Supply Chain Management, and International Business. Each track is designed to align with the professional's existing background and career aspirations."
+    },
+    {
+        "id": "113",
+        "category": "courses_fees",
+        "fact": "Candidates should preferably have a minimum of 2\u20133 years of full-time work experience in managerial, supervisory, or professional roles. However, work experience may be relaxed or waived for exceptional candidates as per university policy."
+    },
+    {
+        "id": "114",
+        "category": "courses_fees",
+        "fact": "Candidates must have passed a Bachelor's Degree in any discipline from a UGC/AICTE recognized university with minimum 3 years duration (10+2+3 or equivalent). General category candidates need at least 50% aggregate marks; reserved category (SC/ST/OBC/PwD) need at least 45%. Admission may be through CAT/XAT/CMAT/MAT/ATMA, State CET, or a University-level entrance test, with final selection via GD, PI, and/or WAT."
+    },
+    {
+        "id": "115",
+        "category": "courses_fees",
+        "fact": "Any candidate meeting the eligibility criteria can apply and opt for any track. However, preference may be given based on relevant background: FinTech suits Commerce, Finance, Economics, Engineering, or IT; IT & Analytics suits Engineering, IT, CS, Mathematics, or Statistics; Marketing Analytics and HR Analytics suit Management, Social Sciences, or relevant work experience backgrounds."
+    },
+    {
+        "id": "116",
+        "category": "courses_fees",
+        "fact": "The tuition fee for MBA Executive is \u20b91,75,000 per semester, with a \u20b92,500 registration fee per semester and a one-time refundable caution deposit of \u20b910,000. Annual tuition is \u20b93,50,000, and total tuition over 2 years (4 semesters) is \u20b97,00,000. Please confirm the latest fee with the admissions office as semester fees may change per Fee Fixation Committee approval."
+    },
+    {
+        "id": "117",
+        "category": "courses_fees",
+        "fact": "It sounds like a strong fit. MBA Executive at DYPIU is built specifically for working professionals with managerial experience \u2014 it blends live business applications with leadership development and strategic thinking. With 5 years of experience, your husband would also be well-positioned to choose a relevant track like Marketing Analytics, FinTech, HR Analytics, Supply Chain Management, or International Business based on his domain. The GD and PI-based selection also values professional maturity over just exam scores."
+    },
+    {
+        "id": "118",
+        "category": "courses_fees",
+        "fact": "Among B.Tech programs with confirmed fees under SoCSEA, B.Tech CSE and B.Tech CSE in Cyber Security & Forensics (IBM) are both at \u20b91,30,000 per semester (\u20b92,60,000/year). B.Tech CSE in AI & ML (IBM) is slightly higher at \u20b91,50,000 per semester. For SoEMR programs like Civil, Mechanical, Chemical, and Semiconductor Engineering, please contact the admissions office for current fees."
+    },
+    {
+        "id": "119",
+        "category": "courses_fees",
+        "fact": "Among PG programs with confirmed fees, M.Tech Quantum Computing and M.Sc. Computational Mathematics are the most affordable at \u20b955,000 per semester (\u20b91,10,000/year). MCA is approximately \u20b980,000 per semester, MBA Digital Business is \u20b91,40,000 per semester, and MBA Executive is \u20b91,75,000 per semester."
+    },
+    {
+        "id": "120",
+        "category": "courses_fees",
+        "fact": "Yes. The \u20b910,000 caution deposit paid at the time of admission is refundable at the end of the program. This applies across all programs at DYPIU."
+    },
+    {
+        "id": "121",
+        "category": "courses_fees",
+        "fact": "Every semester, students pay a registration fee of \u20b92,500 in addition to the program's tuition fee. At the time of admission, a one-time refundable caution deposit of \u20b910,000 is also collected. These charges are uniform across all programs. Note that semester fees may change as per approval from the Fee Fixation Committee."
+    },
+    {
+        "id": "122",
+        "category": "courses_fees",
+        "fact": "No, the fees will not change. Once a student takes admission at DYPIU, the fee structure remains fixed for that specific batch for the entire duration of their degree program."
+    },
+    {
+        "id": "123",
+        "category": "courses_fees",
+        "fact": "The complete and current fee structure for all programs is available at dypiu.ac.in under Admissions \u2192 Fee Structure. You can also contact the admissions office at admission@dypiu.ac.in or call +91 9071123434 or +91 9071123404 for program-specific fee details."
+    },
+    {
+        "id": "124",
+        "category": "courses_fees",
+        "fact": "Yes, DYPIU offers merit-based institutional scholarships on tuition fees. These are awarded based on JEE rank or 10+2 board/MH-CET scores at the time of admission. Scholarships range from 10% to 50% of tuition fees and are available on a first-come, first-served basis with a limited number of seats in each category."
+    },
+    {
+        "id": "125",
+        "category": "courses_fees",
+        "fact": "Yes. A JEE All India Rank of 25,000 or below qualifies for a 50% scholarship on tuition fees (Category A). Only 5 such scholarships are available and are awarded on a first-come, first-served basis, so it is important to apply early."
+    },
+    {
+        "id": "126",
+        "category": "courses_fees",
+        "fact": "Yes. Students scoring between 90% and 95% in MH-CET, CBSE, or state board 10+2 qualify for a 25% scholarship on tuition fees (Category B), with 5 seats available. If she scored 95% or above, she would qualify for a 50% scholarship (Category A, 5 seats). Both are on a first-come, first-served basis."
+    },
+    {
+        "id": "127",
+        "category": "courses_fees",
+        "fact": "DYPIU offers 30 institutional scholarships in total: Category A \u2013 50% scholarship (5 seats, JEE \u226425,000 or board \u226595%), Category B \u2013 25% scholarship (5 seats, JEE 25,001\u201360,000 or board 90\u201395%), Category C \u2013 15% scholarship (10 seats, JEE 60,001\u20131,50,000 or board 85\u201390%), Category D \u2013 10% scholarship (10 seats, board \u226575%). All are on a first-come, first-served basis."
+    },
+    {
+        "id": "128",
+        "category": "courses_fees",
+        "fact": "DYPIU scholarships apply to the first year tuition fees only. Students pay full fees at admission and the scholarship amount is refunded during the semester. For subsequent years, the standard fee applies unless other financial aid schemes are available \u2014 contact admissions for current year details."
+    },
+    {
+        "id": "129",
+        "category": "courses_fees",
+        "fact": "Yes, special considerations are available for Persons with Disabilities (PwD) under DYPIU's scholarship scheme. Contact the admissions office at admission@dypiu.ac.in or +91 9071123434 for details on eligibility and required documents."
+    },
+    {
+        "id": "130",
+        "category": "courses_fees",
+        "fact": "Scholarships are awarded automatically based on entrance exam scores or board results submitted at the time of admission. Students do not need to apply separately \u2014 eligibility is assessed during the admission process. For confirmation and queries, contact admission@dypiu.ac.in or call +91 9071123434."
+    },
+    {
+        "id": "131",
+        "category": "courses_fees",
+        "fact": "Yes, DYPIU admissions are open for the Academic Year 2026\u201327 across all UG and PG programs. To begin the application process, contact admission@dypiu.ac.in or call +91 9071123434."
+    },
+    {
+        "id": "132",
+        "category": "courses_fees",
+        "fact": "Students can apply online at dypiu.ac.in by clicking Apply Now, or visit the campus at Sector 29, Akurdi, Pune. For assistance, contact admission@dypiu.ac.in or call +91 9071123434 or +91 9071123404."
+    },
+    {
+        "id": "133",
+        "category": "courses_fees",
+        "fact": "Yes, MH-CET scores are accepted for admission into engineering and several other programs at DYPIU. MH-CET percentile is also used to determine scholarship eligibility. The specific role of MH-CET varies by program \u2014 for B.Tech it is one of the qualifying entrance exams, while for management programs it is one of the accepted selection criteria."
+    },
+    {
+        "id": "134",
+        "category": "courses_fees",
+        "fact": "The application fee at DYPIU is approximately \u20b91,000 and is non-refundable once paid. Please confirm the exact amount at the time of application as this may vary."
+    },
+    {
+        "id": "135",
+        "category": "courses_fees",
+        "fact": "Final admission requires verification of original documents, fulfillment of university and regulatory requirements, and payment of prescribed fees within stipulated timelines. The specific documents required depend on the program. Contact the admissions office at admission@dypiu.ac.in for a complete checklist."
+    },
+    {
+        "id": "136",
+        "category": "courses_fees",
+        "fact": "Yes, DYPIU was established in 2018 and is recognized by the UGC and the Government of Maharashtra. It is consistently ranked among the top private universities in Pune and Maharashtra."
+    },
+    {
+        "id": "137",
+        "category": "campus_info",
+        "fact": "Yes, DY Patil Residency is an ultra-modern 100-metre, 32-floor hostel available from academic year 2025-26 for both male and female students at the Akurdi, Pune campus."
+    },
+    {
+        "id": "138",
+        "category": "campus_info",
+        "fact": "Yes, DY Patil Residency is a co-ed hostel facility with separate, secure sections for male and female students, designed for safety, comfort, and community living."
+    },
+    {
+        "id": "139",
+        "category": "campus_info",
+        "fact": "The hostel is located at Dr. D.Y. Patil Educational Complex, Sector 29, Nigdi Pradhikaran, Akurdi, Pune \u2013 411044, right within the university campus."
+    },
+    {
+        "id": "140",
+        "category": "campus_info",
+        "fact": "You can reach the hostel office at +91 9028762902 or +91 9028762908, or email hostel@dypiu.ac.in. You can also visit www.dypiu.ac.in for more details."
+    },
+    {
+        "id": "141",
+        "category": "campus_info",
+        "fact": "DY Patil Residency is available from the academic year 2025-26 onwards, offering a brand-new living experience for students joining DYPIU."
+    },
+    {
+        "id": "142",
+        "category": "campus_info",
+        "fact": "The hostel offers two room types \u2014 single-bedroom units with one attached washroom, and three-bedroom units with two attached washrooms, catering to different preferences and budgets."
+    },
+    {
+        "id": "143",
+        "category": "campus_info",
+        "fact": "Yes, single rooms have their own attached washroom, and three-bedded rooms come with two attached washrooms. All washrooms have 24/7 hot water and premium fittings."
+    },
+    {
+        "id": "144",
+        "category": "campus_info",
+        "fact": "Each room comes with a bed, study table, chair, and wardrobe. Rooms are designed to support both academic focus and comfortable rest."
+    },
+    {
+        "id": "145",
+        "category": "campus_info",
+        "fact": "Yes, each floor has a pantry equipped with an oven, RO plant, microwave, and electric kettle, allowing students to prepare light meals or snacks conveniently."
+    },
+    {
+        "id": "146",
+        "category": "campus_info",
+        "fact": "Yes, all washrooms in the hostel have 24/7 hot water supply along with premium fittings and regular maintenance to ensure a clean and hassle-free experience."
+    },
+    {
+        "id": "147",
+        "category": "campus_info",
+        "fact": "The hostel has an Indoor Sports Complex, a fully-equipped 2000 sq. ft. gym, 4 badminton courts, a TV room, a reading room, and lounge areas for relaxation and socialising."
+    },
+    {
+        "id": "148",
+        "category": "campus_info",
+        "fact": "Yes, the hostel has a fully-equipped gym spanning 2000 sq. ft., designed to support student fitness and well-being alongside academic life."
+    },
+    {
+        "id": "149",
+        "category": "campus_info",
+        "fact": "Yes, the hostel has a quiet reading room and spacious study areas designed for uninterrupted focus, making it easier for students to study in a calm environment."
+    },
+    {
+        "id": "150",
+        "category": "campus_info",
+        "fact": "Yes, the hostel has a large dining hall serving healthy, nutritious meals across a variety of cuisines, with high standards of food safety and hygiene. There is also a Skyview rooftop dining area."
+    },
+    {
+        "id": "151",
+        "category": "campus_info",
+        "fact": "The hostel dining hall serves a variety of cuisines with a focus on healthy, balanced, and nutritious meals. Food safety and hygiene are maintained to a high standard in the kitchen."
+    },
+    {
+        "id": "152",
+        "category": "campus_info",
+        "fact": "Yes, the hostel has a Mini Shopping Arcade for students to purchase daily essentials without having to leave the campus premises."
+    },
+    {
+        "id": "153",
+        "category": "campus_info",
+        "fact": "Yes, high-speed Wi-Fi is available throughout the DYPIU campus and hostel, ensuring students stay connected for academic and personal use."
+    },
+    {
+        "id": "154",
+        "category": "campus_info",
+        "fact": "The hostel has 24/7 CCTV surveillance, a grand secured entrance, and spacious parking. It is designed with safety as a priority for both male and female residents."
+    },
+    {
+        "id": "155",
+        "category": "campus_info",
+        "fact": "Yes, DY Patil Residency has secure, separate sections for female students with 24/7 surveillance, controlled access, and a thoughtfully designed layout for their safety and privacy."
+    },
+    {
+        "id": "156",
+        "category": "campus_info",
+        "fact": "Yes, the hostel is managed by a dedicated team. For queries, you can contact the hostel office at +91 9028762902 or email hostel@dypiu.ac.in."
+    },
+    {
+        "id": "157",
+        "category": "campus_info",
+        "fact": "A minimum of 75% attendance is mandatory for all students at DYPIU. Falling below this threshold may affect eligibility for exams and academic progression."
+    },
+    {
+        "id": "158",
+        "category": "campus_info",
+        "fact": "Students who do not maintain 75% attendance may be barred from appearing in semester examinations. It is important to attend classes regularly to avoid academic penalties."
+    },
+    {
+        "id": "159",
+        "category": "campus_info",
+        "fact": "Yes, 75% attendance is a mandatory requirement at DYPIU. Students are advised to track their attendance regularly and avoid unnecessary absences throughout the semester."
+    },
+    {
+        "id": "160",
+        "category": "campus_info",
+        "fact": "DYPIU does not operate a dedicated college bus service. Students are responsible for their own commute to and from the campus."
+    },
+    {
+        "id": "161",
+        "category": "campus_info",
+        "fact": "Yes, the campus and hostel have spacious parking facilities available for students who commute using their own two-wheelers or four-wheelers."
+    },
+    {
+        "id": "162",
+        "category": "campus_info",
+        "fact": "Yes, DYPIU has a medical room on campus with a doctor available to attend to students' health needs during working hours."
+    },
+    {
+        "id": "163",
+        "category": "campus_info",
+        "fact": "Yes, a doctor is available on the DYPIU campus to provide medical assistance to students. The medical room is equipped to handle basic health concerns and emergencies."
+    },
+    {
+        "id": "164",
+        "category": "campus_info",
+        "fact": "In case of a medical emergency, students should immediately approach the on-campus medical room where a doctor is available. For serious emergencies, the campus staff will assist in arranging further medical care."
+    },
+    {
+        "id": "165",
+        "category": "campus_info",
+        "fact": "DYPIU has a sports complex with facilities including 4 badminton courts, a fully-equipped gym, and open grounds for outdoor sports. Sports activities and tournaments are regularly organised for students."
+    },
+    {
+        "id": "166",
+        "category": "campus_info",
+        "fact": "Yes, DYPIU has a central library with a wide collection of books, journals, and digital resources to support students across all departments and research activities."
+    },
+    {
+        "id": "167",
+        "category": "campus_info",
+        "fact": "Yes, the campus has a canteen that serves a variety of meals and snacks throughout the day. The hostel dining hall is also accessible and serves nutritious meals for resident students."
+    },
+    {
+        "id": "168",
+        "category": "campus_info",
+        "fact": "Yes, the entire DYPIU campus is equipped with high-speed Wi-Fi, allowing students to access academic resources, online platforms, and stay connected throughout the day."
+    },
+    {
+        "id": "169",
+        "category": "campus_info",
+        "fact": "DY Patil International University is located at Dr. D.Y. Patil Educational Complex, Sector 29, Nigdi Pradhikaran, Akurdi, Pune \u2013 411044, Maharashtra, India."
+    },
+    {
+        "id": "170",
+        "category": "campus_info",
+        "fact": "DYPIU operates from 8:30 AM to 5:00 PM, Monday to Saturday. Administrative offices follow the same schedule."
+    },
+    {
+        "id": "171",
+        "category": "campus_info",
+        "fact": "Yes, the DYPIU campus is equipped with 24/7 CCTV surveillance, security personnel at entry points, and a well-maintained infrastructure to ensure a safe environment for all students."
+    },
+    {
+        "id": "172",
+        "category": "campus_info",
+        "fact": "Yes, DYPIU has state-of-the-art computer labs, engineering labs, science labs, and design studios that give students hands-on exposure relevant to their fields of study."
+    },
+    {
+        "id": "173",
+        "category": "campus_info",
+        "fact": "Yes, the campus has designated recreational spaces including indoor sports facilities, an open lawn, and common areas where students can relax and socialise between classes."
+    },
+    {
+        "id": "174",
+        "category": "campus_info",
+        "fact": "Yes, DYPIU has an active placement cell that connects students with industry opportunities, organises campus recruitment drives, and supports students with career guidance and interview preparation."
+    },
+    {
+        "id": "175",
+        "category": "campus_info",
+        "fact": "The DYPIU campus is located in Akurdi, Pune, which is a well-developed area with banks, ATMs, and essential services available within close proximity to the campus."
+    },
+    {
+        "id": "176",
+        "category": "campus_info",
+        "fact": "The nearest railway station is Akurdi Railway Station, which is approximately 1-2 km from the DYPIU campus, making it accessible via auto-rickshaw or personal transport."
+    },
+    {
+        "id": "177",
+        "category": "campus_info",
+        "fact": "DYPIU is part of the Dr. D.Y. Patil Educational Complex in Akurdi, Pune, which is a large, well-developed campus with academic buildings, labs, sports facilities, green spaces, and the new hostel tower."
+    },
+    {
+        "id": "178",
+        "category": "campus_info",
+        "fact": "DYPIU is committed to an inclusive campus environment. Students with specific accessibility needs are encouraged to contact the administrative office to discuss available accommodations and support."
+    },
+    {
+        "id": "179",
+        "category": "campus_info",
+        "fact": "Yes, DYPIU has a student grievance redressal mechanism in place. Students can raise academic or administrative concerns through the designated office or the student council representatives."
+    },
+    {
+        "id": "180",
+        "category": "campus_info",
+        "fact": "Yes, there are several hospitals near the Akurdi campus in Pune that can be reached quickly in case of a serious emergency. Campus staff will assist students in accessing emergency medical care."
+    },
+    {
+        "id": "181",
+        "category": "campus_info",
+        "fact": "Yes, DYPIU has an administrative office that handles student queries related to admissions, fees, documentation, certificates, and general campus information, open from 8:30 AM to 5:00 PM on weekdays."
+    },
+    {
+        "id": "182",
+        "category": "campus_info",
+        "fact": "Yes, the hostel has thoughtfully designed lounge and waiting areas where students can relax, socialise, and recharge. These common spaces are part of the community-focused design of DY Patil Residency."
+    },
+    {
+        "id": "183",
+        "category": "campus_info",
+        "fact": "The DYPIU campus is serene, green, and well-maintained. It is designed to foster academic focus, personal growth, and community living, making it an ideal environment for students to thrive."
+    },
+    {
+        "id": "184",
+        "category": "campus_info",
+        "fact": "Yes, DY Patil Residency is a brand-new, ultra-modern hostel tower that will be available from academic year 2025-26. It is designed with contemporary amenities and a focus on student well-being."
+    },
+    {
+        "id": "185",
+        "category": "campus_info",
+        "fact": "Parents wishing to visit their children at the hostel should contact the hostel office at +91 9028762902 or hostel@dypiu.ac.in to understand the visiting hours and entry procedures."
+    },
+    {
+        "id": "186",
+        "category": "campus_info",
+        "fact": "Students interested in hostel accommodation can contact the hostel office at +91 9028762902, email hostel@dypiu.ac.in, or visit www.dypiu.ac.in for application details and availability."
+    },
+    {
+        "id": "187",
+        "category": "clubs_events",
+        "fact": "DYPIU has clubs across technical, creative, cultural, and service areas including Code Decode, Google Developer Student Club, Robotics Club, IEEE, SAE Genesis 16 Motorsports, Film and Photography, The Book Club, Mehfil, NSS, and more."
+    },
+    {
+        "id": "188",
+        "category": "clubs_events",
+        "fact": "Students can join clubs during recruitment drives held at the start of the academic year or by directly contacting the club coordinator. Most clubs are open to all branches and years."
+    },
+    {
+        "id": "189",
+        "category": "clubs_events",
+        "fact": "Clubs organize workshops, hackathons, competitions, cultural shows, awareness drives, and seminars throughout the year, giving students practical exposure beyond the classroom."
+    },
+    {
+        "id": "190",
+        "category": "clubs_events",
+        "fact": "Students interested in technology can join Code Decode, Google Developer Student Club, Robotics Club, Design and Simulation Club, or the IEEE student chapter at DYPIU."
+    },
+    {
+        "id": "191",
+        "category": "clubs_events",
+        "fact": "Yes, DYPIU has Film and Photography Club, Chitra Rekha for visual arts, The Performers for stage activities, and Mehfil for cultural expression."
+    },
+    {
+        "id": "192",
+        "category": "clubs_events",
+        "fact": "NSS at DYPIU involves students in cleanliness drives, plantation programs, health awareness campaigns, and community outreach activities, helping them develop social responsibility."
+    },
+    {
+        "id": "193",
+        "category": "clubs_events",
+        "fact": "Yes, first-year students are encouraged to join clubs from the start. It helps them settle into campus life, meet seniors, and explore interests outside academics."
+    },
+    {
+        "id": "194",
+        "category": "clubs_events",
+        "fact": "Club participation builds communication, teamwork, leadership, and problem-solving skills, while also giving students confidence through real events and projects."
+    },
+    {
+        "id": "195",
+        "category": "clubs_events",
+        "fact": "Yes, DYPIU offers sports and fitness activities including games, training sessions, and inter-college tournaments that promote a healthy and active campus lifestyle."
+    },
+    {
+        "id": "196",
+        "category": "clubs_events",
+        "fact": "Each club is guided by a faculty mentor and run by elected student coordinators who plan meetings, events, and keep members informed about upcoming activities."
+    },
+    {
+        "id": "197",
+        "category": "clubs_events",
+        "fact": "Yes, DYPIU organizes technical and cultural fests where students can participate in competitions, exhibitions, performances, and workshops. Check the official notice board or university portal for upcoming event details."
+    },
+    {
+        "id": "198",
+        "category": "clubs_events",
+        "fact": "Yes, clubs regularly organize coding contests, design challenges, quizzes, photography competitions, and cultural events where students can showcase and test their skills."
+    },
+    {
+        "id": "199",
+        "category": "clubs_events",
+        "fact": "Yes, clubs regularly hold workshops on topics like programming, robotics, design, media, and soft skills, giving students hands-on learning opportunities outside formal classes."
+    },
+    {
+        "id": "200",
+        "category": "clubs_events",
+        "fact": "Club leaders plan activities, manage members, coordinate with faculty mentors, and ensure events run smoothly. This role builds accountability, planning, and leadership skills."
+    },
+    {
+        "id": "201",
+        "category": "clubs_events",
+        "fact": "Yes, students can join multiple clubs as long as they can manage their time. Many students combine a technical club with a creative or service-oriented one."
+    },
+    {
+        "id": "202",
+        "category": "clubs_events",
+        "fact": "Yes, students involved in clubs handle scheduling, promotion, coordination, and logistics for events, gaining practical event management experience in the process."
+    },
+    {
+        "id": "203",
+        "category": "clubs_events",
+        "fact": "Yes, the Google Developer Student Club at DYPIU is active and regularly organizes tech talks, coding sessions, and workshops aligned with Google technologies and developer skills."
+    },
+    {
+        "id": "204",
+        "category": "clubs_events",
+        "fact": "Joining a club helps students build skills, expand their network, gain hands-on experience, and make their university life more enriching beyond just academics."
+    },
+    {
+        "id": "205",
+        "category": "clubs_events",
+        "fact": "Yes, NSS and other student-led groups offer volunteering opportunities through social drives, awareness programs, and community support initiatives throughout the year."
+    },
+    {
+        "id": "206",
+        "category": "clubs_events",
+        "fact": "Yes, SAE Genesis 16 Motorsports is the club for automotive enthusiasts at DYPIU. It works on vehicle design, competitions, and hands-on engineering projects."
+    },
+    {
+        "id": "207",
+        "category": "clubs_events",
+        "fact": "Technical clubs let students apply classroom knowledge through projects, coding activities, hardware builds, and competitions, making learning more hands-on and career-relevant."
+    },
+    {
+        "id": "208",
+        "category": "clubs_events",
+        "fact": "A faculty mentor guides the club's direction, supports event planning, and ensures activities are meaningful and aligned with university standards while giving students room to lead."
+    },
+    {
+        "id": "209",
+        "category": "clubs_events",
+        "fact": "Yes, The Performers and cultural clubs provide a platform for students to speak, act, and present in front of an audience, helping them build confidence and communication skills."
+    },
+    {
+        "id": "210",
+        "category": "clubs_events",
+        "fact": "Creative clubs organize music shows, drama performances, art exhibitions, film screenings, photography contests, and open mic sessions throughout the academic year."
+    },
+    {
+        "id": "211",
+        "category": "clubs_events",
+        "fact": "Yes, students are encouraged to contribute ideas to their club. This keeps activities relevant and gives members a sense of ownership over what the club does."
+    },
+    {
+        "id": "212",
+        "category": "clubs_events",
+        "fact": "Yes, The Book Club at DYPIU brings together students who enjoy reading and discussion. It hosts reading circles, literature-based activities, and book-related events."
+    },
+    {
+        "id": "213",
+        "category": "clubs_events",
+        "fact": "Yes, technical clubs regularly organize hackathons and coding contests where students solve real-world problems under time pressure, building both speed and technical thinking."
+    },
+    {
+        "id": "214",
+        "category": "clubs_events",
+        "fact": "Clubs connect students with shared interests, creating friendships and professional connections that often continue well beyond a single semester or event."
+    },
+    {
+        "id": "215",
+        "category": "clubs_events",
+        "fact": "Yes, DYPIU has a Robotics Club where students work on robot design, automation, sensor systems, and competition projects, connecting engineering theory to real-world builds."
+    },
+    {
+        "id": "216",
+        "category": "clubs_events",
+        "fact": "The Film and Photography Club organizes photo walks, short film screenings, editing workshops, and media coverage for university events, helping students explore visual storytelling."
+    },
+    {
+        "id": "217",
+        "category": "clubs_events",
+        "fact": "Club members regularly take on tasks like coordinating events, managing teams, and communicating with mentors, which gradually builds their confidence and leadership ability."
+    },
+    {
+        "id": "218",
+        "category": "clubs_events",
+        "fact": "Yes, most clubs are open to students from all academic branches including engineering, management, biosciences, and design, encouraging cross-disciplinary interaction."
+    },
+    {
+        "id": "219",
+        "category": "clubs_events",
+        "fact": "Yes, DYPIU has a Student Council that represents students, supports campus activity planning, and works as a bridge between students and the university administration."
+    },
+    {
+        "id": "220",
+        "category": "clubs_events",
+        "fact": "Clubs like IEEE, SAE, and coding groups regularly prepare students for national competitions, technical fests, and inter-university events, often with faculty guidance and support."
+    },
+    {
+        "id": "221",
+        "category": "clubs_events",
+        "fact": "Yes, cultural festivals are largely planned and executed by students who manage performances, promotions, coordination, and stage activities, giving them real event experience."
+    },
+    {
+        "id": "222",
+        "category": "clubs_events",
+        "fact": "NSS students participate in cleanliness drives, plantation campaigns, health awareness programs, and community outreach, contributing meaningfully to society while developing responsibility."
+    },
+    {
+        "id": "223",
+        "category": "clubs_events",
+        "fact": "Yes, presenting ideas, coordinating with teams, and speaking at events through clubs gives students regular practice that strengthens both verbal and interpersonal communication."
+    },
+    {
+        "id": "224",
+        "category": "clubs_events",
+        "fact": "The Robotics Club works on robot design, sensor-based systems, automation models, and competition entries, helping students apply engineering concepts in a hands-on environment."
+    },
+    {
+        "id": "225",
+        "category": "clubs_events",
+        "fact": "Yes, DYPIU participates in and hosts sports tournaments that promote fitness, discipline, and team spirit among students across different colleges and branches."
+    },
+    {
+        "id": "226",
+        "category": "clubs_events",
+        "fact": "Students can volunteer for roles in planning, promotion, logistics, or coordination. Most clubs divide responsibilities so every member contributes to how events are run."
+    },
+    {
+        "id": "227",
+        "category": "clubs_events",
+        "fact": "Yes, Chitra Rekha is the visual arts club at DYPIU where students explore illustration, design, and creative artwork through events, exhibitions, and hands-on sessions."
+    },
+    {
+        "id": "228",
+        "category": "clubs_events",
+        "fact": "Club experience demonstrates teamwork, leadership, and initiative to recruiters. Events organized and projects completed through clubs give students concrete examples to discuss in interviews."
+    },
+    {
+        "id": "229",
+        "category": "clubs_events",
+        "fact": "Yes, clubs regularly host seminars, expert talks, and interactive sessions with industry professionals, giving students exposure to real-world perspectives and practical guidance."
+    },
+    {
+        "id": "230",
+        "category": "clubs_events",
+        "fact": "Yes, the IEEE student chapter at DYPIU is active and organizes technical workshops, paper presentations, and networking events aligned with global engineering and technology standards."
+    },
+    {
+        "id": "231",
+        "category": "clubs_events",
+        "fact": "Clubs bring students from different backgrounds together around shared interests, building friendships and a sense of community that makes campus life feel more connected."
+    },
+    {
+        "id": "232",
+        "category": "clubs_events",
+        "fact": "Mindscape is a club at DYPIU focused on mental wellness and psychological awareness. It organizes discussions, sessions, and activities aimed at promoting student mental health and well-being."
+    },
+    {
+        "id": "233",
+        "category": "clubs_events",
+        "fact": "Concordia is a student club at DYPIU focused on debate, discussion, and public speaking. It helps students sharpen their arguments, presentation style, and confidence in structured settings."
+    },
+    {
+        "id": "234",
+        "category": "clubs_events",
+        "fact": "Venn is a student club at DYPIU that focuses on interdisciplinary collaboration and innovation, bringing together students from different fields to work on creative problem-solving activities."
+    },
+    {
+        "id": "235",
+        "category": "clubs_events",
+        "fact": "Yes, most clubs stay active throughout the year through regular meetings, events, and special programs, ensuring campus life remains engaging across all semesters."
+    },
+    {
+        "id": "236",
+        "category": "clubs_events",
+        "fact": "Joining a club helps students grow beyond academics by building real skills, making friends, and gaining experiences that prepare them better for both careers and life."
+    },
+    {
+        "id": "237",
+        "category": "yantrix",
+        "fact": "Yantrix is an official technical club at DY Patil International University focused on robotics, IoT, AI, machine learning, cloud computing, and data science. The club provides a platform for students to work on practical engineering projects and innovative solutions. It encourages hands-on learning and interdisciplinary collaboration."
+    },
+    {
+        "id": "238",
+        "category": "yantrix",
+        "fact": "Yantrix is a technical and innovation focused club. It is designed for students interested in building real hardware and software systems. The club promotes applied engineering, experimentation, and project based learning."
+    },
+    {
+        "id": "239",
+        "category": "yantrix",
+        "fact": "Yantrix is guided by two faculty mentors from SoCSEA. The mentors are Ms. Asha Ayakar and Ms. Shraddha Jadhav. They support the club\u2019s activities, technical projects, and ensure the club functions according to university guidelines."
+    },
+    {
+        "id": "240",
+        "category": "yantrix",
+        "fact": "Aryan Shakya serves as the Convener of Yantrix. He leads the overall vision and direction of the club. The convener coordinates with faculty mentors and university authorities for club activities."
+    },
+    {
+        "id": "241",
+        "category": "yantrix",
+        "fact": "Soo-yush Kuh-run-day is the Co\u2011Convener of Yantrix. He assists the convener in organizing events, managing members, and coordinating projects. The role also includes helping manage club operations and planning activities."
+    },
+    {
+        "id": "242",
+        "category": "yantrix",
+        "fact": "The vision of Yantrix is to become a center of excellence in robotics, intelligent systems, and emerging technologies. The club aims to build innovation driven students with strong practical skills. It also focuses on preparing students for industry and research opportunities."
+    },
+    {
+        "id": "243",
+        "category": "yantrix",
+        "fact": "The mission of Yantrix is to provide structured technical training and promote real world problem solving. The club encourages interdisciplinary collaboration and innovation. It also aims to develop leadership, teamwork, and project management skills among students."
+    },
+    {
+        "id": "244",
+        "category": "yantrix",
+        "fact": "Yantrix aims to train students in robotics, embedded systems, AI, and IoT development. The club focuses on building practical hardware and software solutions. It also encourages participation in hackathons, competitions, and research activities."
+    },
+    {
+        "id": "245",
+        "category": "yantrix",
+        "fact": "Yantrix is open to students from different programs who are interested in technology and innovation. Members are expected to have basic understanding of hardware or software systems. A strong interest in building projects and learning new technologies is important."
+    },
+    {
+        "id": "246",
+        "category": "yantrix",
+        "fact": "The club currently plans to maintain around 30 to 40 active members. This allows efficient teamwork and effective project collaboration. The size also helps the club manage workshops and technical activities properly."
+    },
+    {
+        "id": "247",
+        "category": "yantrix",
+        "fact": "Students can join Yantrix through the club membership process managed by the core team and mentors. Interested students may apply and participate in introductory sessions or screening. Selected members then take part in projects, workshops, and club activities."
+    },
+    {
+        "id": "248",
+        "category": "yantrix",
+        "fact": "The convener leads the club and represents it before faculty mentors and university administration. The convener also helps define the club\u2019s technical direction and activities. This role ensures coordination between members, mentors, and projects."
+    },
+    {
+        "id": "249",
+        "category": "yantrix",
+        "fact": "The student secretary manages official documentation and club records. This includes meeting notes, reports, and communication records. The role ensures that club activities are properly documented and organized."
+    },
+    {
+        "id": "250",
+        "category": "yantrix",
+        "fact": "The industry and public relations role focuses on building connections with technology companies and professionals. This helps organize guest lectures, industry visits, and internship opportunities. It also helps the club stay connected with current industry trends."
+    },
+    {
+        "id": "251",
+        "category": "yantrix",
+        "fact": "The student project coordinator oversees the development of club projects. This includes planning, monitoring progress, and preparing projects for competitions. The role ensures that technical builds are completed successfully."
+    },
+    {
+        "id": "252",
+        "category": "yantrix",
+        "fact": "The operations team manages the day to day functioning of the club. This includes organizing activities, managing equipment, and ensuring safety in the robotics lab. Their work helps maintain smooth execution of technical sessions."
+    },
+    {
+        "id": "253",
+        "category": "yantrix",
+        "fact": "The technical team leads coding, circuit design, and project development within the club. They guide members during technical workshops and hands on sessions. Their role is important for developing practical engineering skills."
+    },
+    {
+        "id": "254",
+        "category": "yantrix",
+        "fact": "The CAD team designs mechanical structures and 3D models for robotics projects. These designs help members build accurate and functional prototypes. CAD support is especially important for robotics and hardware development."
+    },
+    {
+        "id": "255",
+        "category": "yantrix",
+        "fact": "The social media team documents club activities, projects, and events. They share updates through photos, videos, and online posts. This helps showcase the club\u2019s work and increases student engagement."
+    },
+    {
+        "id": "256",
+        "category": "yantrix",
+        "fact": "Yantrix organizes technical workshops such as Hardware to Cloud sessions and IoT development training. These workshops teach students how to connect microcontrollers like ESP32 or Arduino to cloud systems. Hands on training in circuits, soldering, and embedded systems is also provided."
+    },
+    {
+        "id": "257",
+        "category": "yantrix",
+        "fact": "Yantrix participates in technical competitions, hackathons, and engineering challenges. The club encourages members to build innovative solutions and represent the university in such events. These competitions help students test their skills in real environments."
+    },
+    {
+        "id": "258",
+        "category": "yantrix",
+        "fact": "Yantrix works on developing technical solutions that address real world industrial or societal problems. The club also conducts introductory workshops for students interested in robotics and electronics. These activities help build a strong maker culture on campus."
+    },
+    {
+        "id": "259",
+        "category": "yantrix",
+        "fact": "The club runs programs such as Edge AI and robotics development. These programs teach students to build intelligent hardware systems and smart IoT nodes. Members also learn how machine learning can be applied to real devices."
+    },
+    {
+        "id": "260",
+        "category": "yantrix",
+        "fact": "Yantrix conducts most practical activities in the Robotics Room 354. The lab provides workbenches, electronic components, power supply points, and internet connectivity. This space allows members to build and test their projects collaboratively."
+    },
+    {
+        "id": "261",
+        "category": "yantrix",
+        "fact": "Yantrix receives institutional support through faculty mentorship and access to the robotics laboratory facilities. The university also supports workshops, competitions, and student development activities. This support helps the club run structured technical programs."
+    },
+    {
+        "id": "262",
+        "category": "faculty",
+        "fact": "Dr. Maheshwari Biradar (Associate Professor (Head of Department- B.Tech CSE)) is located in Room 454 at DYPIU."
+    },
+    {
+        "id": "263",
+        "category": "faculty",
+        "fact": "Dr.Rahul Sharma (Professor (Director - School Of Computer Science Engineering and Applications)) is located in Room 517(Director SoCSEA) at DYPIU."
+    },
+    {
+        "id": "264",
+        "category": "faculty",
+        "fact": "Dr. Dipti Chandra (Assistant Professor (Faculty)) is located in Room 657 at DYPIU."
+    },
+    {
+        "id": "265",
+        "category": "faculty",
+        "fact": "Purva Dindayal Thakare (Assistant Professor (Faculty)) is located in Room 414 at DYPIU."
+    },
+    {
+        "id": "266",
+        "category": "faculty",
+        "fact": "Dr. Vandna Srivastava (Associate Professor (Faculty)) is located in Room 441 at DYPIU."
+    },
+    {
+        "id": "267",
+        "category": "faculty",
+        "fact": "Dr. Gaurav Kumar Singh (Sr. Assistant Professor (Faculty)) is located in Room 519 at DYPIU."
+    },
+    {
+        "id": "268",
+        "category": "faculty",
+        "fact": "Dr.Sanjay Mohite (Professor (Faculty)) is located in Room 443 at DYPIU."
+    },
+    {
+        "id": "269",
+        "category": "faculty",
+        "fact": "Prof. (Dr.) Chandrashekhar Goswami (Professor (Faculty )) is located in Room 350 at DYPIU."
+    },
+    {
+        "id": "270",
+        "category": "faculty",
+        "fact": "Monika Kapgate (Assistant Professor (Faculty )) is located in Room 414 at DYPIU."
+    },
+    {
+        "id": "271",
+        "category": "faculty",
+        "fact": "Saikrishna Sunil Dachawar (Assistant Professor (Faculty )) is located in Room 414 at DYPIU."
+    },
+    {
+        "id": "272",
+        "category": "faculty",
+        "fact": "Prof. (Dr.) Anuj Kumar (Professor (Faculty)) is located in Room 429 at DYPIU."
+    },
+    {
+        "id": "273",
+        "category": "faculty",
+        "fact": "Dr. Anju Chaurasia (Sr. Assistant Professor (Faculty)) is located in Room 452 at DYPIU."
+    },
+    {
+        "id": "274",
+        "category": "faculty",
+        "fact": "Asha Ayakar (Assistant Professor (Faculty)) is located in Room 322 at DYPIU."
+    },
+    {
+        "id": "275",
+        "category": "faculty",
+        "fact": "Dr. Amol Ramrao Dhakne (Associate Professor (Faculty)) is located in Room F28, First Floor, Near classroom 13 at DYPIU."
+    },
+    {
+        "id": "276",
+        "category": "faculty",
+        "fact": "Mrunmayee Rahate (Assistant Professor (Faculty)) is located in Room 414 at DYPIU."
+    },
+    {
+        "id": "277",
+        "category": "faculty",
+        "fact": "Dr. Rishikant Rajdeepak (Assistant Professor (Faculty)) is located in Room 521 at DYPIU."
+    },
+    {
+        "id": "278",
+        "category": "faculty",
+        "fact": "Smita Satish Pawar (Assistant Professor (Faculty)) is located in Room 506 at DYPIU."
+    },
+    {
+        "id": "279",
+        "category": "faculty",
+        "fact": "Dr.Pragati Choudhari (Assistant Professor (Faculty)) is located in Room 530 at DYPIU."
+    },
+    {
+        "id": "280",
+        "category": "faculty",
+        "fact": "Dr. Laxmi Priya Sahu (Assistant Professor (Faculty)) is located in Room 522 at DYPIU."
+    },
+    {
+        "id": "281",
+        "category": "faculty",
+        "fact": "Sunayana Bisalapur (Assistant Professor (Faculty)) is located in Room 414 at DYPIU."
+    },
+    {
+        "id": "282",
+        "category": "faculty",
+        "fact": "Dr. Sanjay Badhe (Associate Professor (Faculty)) is located in Room 349 at DYPIU."
+    },
+    {
+        "id": "283",
+        "category": "faculty",
+        "fact": "Achal Ravindra Katware (Assistant Professor (Faculty)) is located in Room 530 at DYPIU."
+    },
+    {
+        "id": "284",
+        "category": "faculty",
+        "fact": "Dr. Somya Dubey (Assistant Professor (Faculty)) is located in Room 560 at DYPIU."
+    },
+    {
+        "id": "285",
+        "category": "faculty",
+        "fact": "Anagha Ekbote (Assistant Professor (Faculty)) is located in Room 530 at DYPIU."
+    },
+    {
+        "id": "286",
+        "category": "faculty",
+        "fact": "Jyoti M Tipale (Assistant Professor (Faculty)) is located in Room 530 at DYPIU."
+    },
+    {
+        "id": "287",
+        "category": "faculty",
+        "fact": "Dr.Dipika Pradhan (Associate Professor (Faculty)) is located in Room 617 at DYPIU."
+    },
+    {
+        "id": "288",
+        "category": "faculty",
+        "fact": "Dr. Prateek Srivastav (Assistant Professor (Faculty)) is located in Room 530 at DYPIU."
+    },
+    {
+        "id": "289",
+        "category": "faculty",
+        "fact": "Seema Darekar (Assistant Professor (Faculty)) is located in Room 414 at DYPIU."
+    },
+    {
+        "id": "290",
+        "category": "faculty",
+        "fact": "Ghansham Rathod (Assistant Professor (Faculty)) is located in Room 414 at DYPIU."
+    },
+    {
+        "id": "291",
+        "category": "faculty",
+        "fact": "Dipali Dhokane (Assistant Professor (Faculty)) is located in Room 530 at DYPIU."
+    },
+    {
+        "id": "292",
+        "category": "faculty",
+        "fact": "Ms. Yukta More (Teaching Assistant (Faculty)) is located in Room 334 at DYPIU."
+    },
+    {
+        "id": "293",
+        "category": "faculty",
+        "fact": "Dr Vaishnaw G Kale (Professor (Faculty)) is located in Room 344 at DYPIU."
+    },
+    {
+        "id": "294",
+        "category": "faculty",
+        "fact": "Pratiksha Saheb (Assistant Professor (Faculty)) is located in Room 322 at DYPIU."
+    },
+    {
+        "id": "295",
+        "category": "faculty",
+        "fact": "Ms. Shraddha Jadhav (Assistant Professor (Faculty)) is located in Room 322 at DYPIU."
+    },
+    {
+        "id": "296",
+        "category": "faculty",
+        "fact": "Dr. Maheshwari Biradar (Associate Professor (Head of Department- B.Tech CSE)) teaches the following subjects at DYPIU: Principles of Data Science, Big Data Analytics, AIML, Digital Communication, Computer Networks."
+    },
+    {
+        "id": "297",
+        "category": "faculty",
+        "fact": "Dr. Swapnil Bhurat (Professor (Head of Department- Mechanical Engineering)) teaches the following subjects at DYPIU: Design Thinking, Research Methodology and IPR, Automotive Subsystem of EV, Fundamentals of Electric Vehicle."
+    },
+    {
+        "id": "298",
+        "category": "faculty",
+        "fact": "Dr Shailesh Ghodke (Associate Professor (Head of Department-Chemical Engineering)) teaches the following subjects at DYPIU: Environmental Science, Chemical Reaction Engineering, Heat Transfer, Design Thinking and Fab Lab, Process Safety."
+    },
+    {
+        "id": "299",
+        "category": "faculty",
+        "fact": "Dr. Surabhi Sonam (Associate Professor (Head of Department Biotech Engineering)) teaches the following subjects at DYPIU: Biomaterials, Biomedical Devices, Genetics, Basic Electronics, Fabrication and Design Thinking."
+    },
+    {
+        "id": "300",
+        "category": "faculty",
+        "fact": "Dr. Rahul M. Weldode (Sr. Assistant Professor (Academic Coordinator)) teaches the following subjects at DYPIU: Typography, Illustration, Communication Design, Branding."
+    },
+    {
+        "id": "301",
+        "category": "faculty",
+        "fact": "Dr. Arun Sacher (Associate Dean (Corporate Relations & Placements) | Professor (School of Commerce & Management)) specializes in Strategic HR & OB at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "302",
+        "category": "faculty",
+        "fact": "Dr Abnish Singh Chauhan (Professor (Director of School of Humanities and Social Sciences)) teaches the following subjects at DYPIU: Functional English, Communication Skills, English Literature (Indian & British), Indian: Studies in English Translation, IKS (Nitishastra & Storytelling Pedagogy)."
+    },
+    {
+        "id": "303",
+        "category": "faculty",
+        "fact": "Dr Sunil Dambhare (Professor (Director-IQAC(Internal Quality Assurance Cell)  & Mechanical Engineering)) teaches the following subjects at DYPIU: Numerical Methods, Operations Research, Fluid Mechanics, Turbo Machines, Engineering Graphics."
+    },
+    {
+        "id": "304",
+        "category": "faculty",
+        "fact": "Dr Arokia Priya Charles (Professor (Head of Department- Semiconductor)) teaches the following subjects at DYPIU: Vlsi design and Technology, Data Analytics, Fault Tolent systems."
+    },
+    {
+        "id": "305",
+        "category": "faculty",
+        "fact": "Maan Bardhan Kanth (Associate Director (Head of Department Media and Journalism)) teaches the following subjects at DYPIU: Television Journalism, Corporate Communication, Environmental Journalism, Governance and Public Policy and Indian Folk Culture&Theatre."
+    },
+    {
+        "id": "306",
+        "category": "faculty",
+        "fact": "Dr.Arvind Kumar (Professor (Director - School Of Media and Journalism)) teaches the following subjects at DYPIU: Social Media, Language and Creative Writing, Cinema Studies, Mass Media Research."
+    },
+    {
+        "id": "307",
+        "category": "faculty",
+        "fact": "Dr.Rahul Sharma (Professor (Director - School Of Computer Science Engineering and Applications)) teaches the following subjects at DYPIU: HPC, AI/ML, AI Ethics, KDD, Information security."
+    },
+    {
+        "id": "308",
+        "category": "faculty",
+        "fact": "Arvind Mathur (Professor (Director - School Of Engineering )) teaches the following subjects at DYPIU: (a) Introduction to Machine Learning (b) Design Thinking."
+    },
+    {
+        "id": "309",
+        "category": "faculty",
+        "fact": "Dr.Sathish D (Assistant Professor (Joint Director - Centre for skill developement)) teaches the following subjects at DYPIU: Aircraft Propulsion, Aerospace Propulsion, Computational Fluid Dynamics, Aerodynamics, Advance Aerodynamics, Flight Dynamics."
+    },
+    {
+        "id": "310",
+        "category": "faculty",
+        "fact": "Ms. Jasmita Kaur serves as Dean Placements at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "311",
+        "category": "faculty",
+        "fact": "Chetan Khairnar serves as Senior Manager \u2013 Corporate Relations at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "312",
+        "category": "faculty",
+        "fact": "Sudha Nirmale serves as Deputy Manager - Corporate Relations at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "313",
+        "category": "faculty",
+        "fact": "Prof.(Dr.) Manish Bhalla serves as Vice Chancellor at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "314",
+        "category": "faculty",
+        "fact": "Ms.Hetal Patel. serves as Executive Assistant to Vice-Chancellor,& Deputy Manager-Human Resources at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "315",
+        "category": "faculty",
+        "fact": "HON. DR. SANJAY D. PATIL serves as Chancellor, D Y Patil International University at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "316",
+        "category": "faculty",
+        "fact": "HON. DR. D. Y. PATIL serves as Founder President Of D. Y. Patil Group & Former Governor of the Indian States of Bihar, Tripura and West Bengal at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "317",
+        "category": "faculty",
+        "fact": "Shri. Tejas S. Patil serves as Trustee of Dr. D. Y. Patil Education Complex, Akurdi at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "318",
+        "category": "faculty",
+        "fact": "Dr.(Prof.) Beeran Moidin B M serves as Registrar at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "319",
+        "category": "faculty",
+        "fact": "Dr. Anupama V Patil serves as Dean - Faculty of Engineering & Technology (DYPIU) at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "320",
+        "category": "faculty",
+        "fact": "Prof. (Dr.) Madhavi Deshpande serves as Dean of Faculty Non-Engineering, D Y Patil International University, Pune at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "321",
+        "category": "faculty",
+        "fact": "Prof. Ramendra Pati Pandey serves as Deputy Dean (R&D)/Professor at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "322",
+        "category": "faculty",
+        "fact": "Dr. Anurag Anand Pandey serves as Director \u2013Admission & Outreach at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "323",
+        "category": "faculty",
+        "fact": "Mr. Vitthal M Dhumal serves as Dy.Director \u2013 Admission & Outreach at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "324",
+        "category": "faculty",
+        "fact": "Ms. Priyanka Sharad Jawale (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Fluid Mechanics, Remote Sensing and GIS, Survey Engineering, Hydrology and Water Resources Engineering, Dams and Hydraulics."
+    },
+    {
+        "id": "325",
+        "category": "faculty",
+        "fact": "Aziz Poonawala (Professor of Practice (Faculty)) teaches the following subjects at DYPIU: Grids and layouts 2. Branding 3. Usability Testing and Evaluation 4. Environmental and Information Graphics 5. Print and Publication Design 6. Design Entrepreneurship 7. Critical Thinking 8. Visual identity Design 9. Content Development and Copywriting."
+    },
+    {
+        "id": "326",
+        "category": "faculty",
+        "fact": "Ms. Shobhana Patil (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Design and Analysis of an Algorithm, Data Structures, Java, RDBMS."
+    },
+    {
+        "id": "327",
+        "category": "faculty",
+        "fact": "Dr. Suchit Deshmukh (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Thermodynamics, Fluid Mechanics, Turbomachinery, Heating Ventilation and Air Conditioning."
+    },
+    {
+        "id": "328",
+        "category": "faculty",
+        "fact": "Dr. Dipti Chandra (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Analog and Mixed Signal VLSI design, Low Power Circuit Design."
+    },
+    {
+        "id": "329",
+        "category": "faculty",
+        "fact": "Dr. Keval Chandrakant Nikam (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Elements of Mechanical Engineering, Heat Transfer, Computational Thinking with Python, Data Science and Machine Learning."
+    },
+    {
+        "id": "330",
+        "category": "faculty",
+        "fact": "Dr Amit M Umbrajkar (Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Mechanics, Solid Mechanics, Dynamics of Machinery, AIML, Mechanical System Design."
+    },
+    {
+        "id": "331",
+        "category": "faculty",
+        "fact": "Dr. Sidhartha singh (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Cancer Biology, OMICS, Clinical Biochemistry."
+    },
+    {
+        "id": "332",
+        "category": "faculty",
+        "fact": "Dr. Lubna Shaik (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Fermentation and Enzyme Technology, Fundamentals of Food Additives and Packaging, Unit Operations in Food Engineering, Applied Microbiology, Biochemistry."
+    },
+    {
+        "id": "333",
+        "category": "faculty",
+        "fact": "Dr. Prafull Chavan (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Food Safety and Quality Control, Functional Food and Nutraceutical Processing, Food Process Engineering, Biomechanics and Prosthetics."
+    },
+    {
+        "id": "334",
+        "category": "faculty",
+        "fact": "Dineshkumar Yograj Turkar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Biological Physics, Fluid dynamics for biotechnology, Engineering Physics."
+    },
+    {
+        "id": "335",
+        "category": "faculty",
+        "fact": "Dr. Sonal Mahajan (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Enzyme Technology, Clinical Biochemistry, Biophysical Tools, Immunology, Biochemistry."
+    },
+    {
+        "id": "336",
+        "category": "faculty",
+        "fact": "Dr. Meena Pandey (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Cell Biology, Plant Biotechnology, Envirnment climate change and sustainable development, Genetics, Molecular Biology."
+    },
+    {
+        "id": "337",
+        "category": "faculty",
+        "fact": "Dr. Subhranshu Samal is an Assistant Professor (Faculty) at DYPIU. Teaches subjects in Bioprocess and Biochemical Engineering (exact subject list not available)."
+    },
+    {
+        "id": "338",
+        "category": "faculty",
+        "fact": "Dr. Ramendra Pati Pandey (Professor (Faculty)) teaches the following subjects at DYPIU: Human Physiology, Tissue Culture Techniques, Biosciences, Immunology, Nanotechnology in Medicine."
+    },
+    {
+        "id": "339",
+        "category": "faculty",
+        "fact": "Prof. Shashi Singh (Sr. Professor (Faculty)) teaches the following subjects at DYPIU: Tissue Culture Techniques, Cell and Tissue Engineering, Human Physiology, Nanotechnology, Biological Physics."
+    },
+    {
+        "id": "340",
+        "category": "faculty",
+        "fact": "Dr Siddharth Gavhale (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Mathematics, Data Processing and Biostatistic, Statistic, Applied computational Mathematics, Business Mathematics."
+    },
+    {
+        "id": "341",
+        "category": "faculty",
+        "fact": "Dr VANDANA B PATIL (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Applied Physics Engineering Physics Semiconductor Device chracterization Semiconductor Physics."
+    },
+    {
+        "id": "342",
+        "category": "faculty",
+        "fact": "Jeevraj Sharad Bhalerao (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: IKS - Indian Knowledge system Advanced Typography Basic Calligraphy & Letter Design Grid and Layout Type/Font Design Storytelling with Storyboarding Introduction to Graphic Design Introduction to Photography Emotional Design Responsible Design Designing for children Sketching and Drawing Film Design - Scriptwriting - Pre production Emerging Media and Technologies."
+    },
+    {
+        "id": "343",
+        "category": "faculty",
+        "fact": "Purva Dindayal Thakare (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Fundamentals of Data Science, Database Management System, Data Warehousing and Data Mining, Generative AI."
+    },
+    {
+        "id": "344",
+        "category": "faculty",
+        "fact": "Dr. Vandna Srivastava (Associate Professor (Faculty)) teaches the following subjects at DYPIU: ACM I, II Information Security, Advance Probabilty Statistics, Fundamental of cosmology, Introduction to Maple."
+    },
+    {
+        "id": "345",
+        "category": "faculty",
+        "fact": "Mr. Krishna Ganpat Sawant (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Graphic for Retail & Merchandising, Story Boarding & Visual Scripting, Display Design, Campaign for Advertising, Design for Publication, Brand Identity."
+    },
+    {
+        "id": "346",
+        "category": "faculty",
+        "fact": "Dr Atul Ramdas Kolhe (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Infrastructure & Town Planning Engineering, Design Thinking and Fabrication Techniques, Basis of Digital Drafting, Construction management, Sustainability & Concrete Technology."
+    },
+    {
+        "id": "347",
+        "category": "faculty",
+        "fact": "Dr. Gaurav Kumar Singh (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Basic Electricasl and Electronics, Introduction to Communication System. Data Wrangling."
+    },
+    {
+        "id": "348",
+        "category": "faculty",
+        "fact": "Dr.Sanjay Mohite (Professor (Faculty)) teaches the following subjects at DYPIU: Embedded System Design, Introduction to Intelligent System, Computer Orgnisation."
+    },
+    {
+        "id": "349",
+        "category": "faculty",
+        "fact": "Mr. Sandeep Dongare (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Film Studies, Film Production, Documentary Production, Digital Photography, Visual Communication."
+    },
+    {
+        "id": "350",
+        "category": "faculty",
+        "fact": "Prof. (Dr.) Chandrashekhar Goswami (Professor (Faculty )) teaches the following subjects at DYPIU: Python Programming, Database Management Systems, Data Structures, Machine Learning, Deep Learning."
+    },
+    {
+        "id": "351",
+        "category": "faculty",
+        "fact": "Monika Kapgate (Assistant Professor (Faculty )) teaches the following subjects at DYPIU: Digital communication, computer network, Embedded system design and development."
+    },
+    {
+        "id": "352",
+        "category": "faculty",
+        "fact": "Mr. Chetan Pawar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Thermodynamics, Energy Engineering, Engineering Graphics, Fluid Mechanics."
+    },
+    {
+        "id": "353",
+        "category": "faculty",
+        "fact": "Ms. Tejashri Satish Gulve (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Design of R C structures, Design of Steel Structures, Strength of Materials, Structural Analysis, Engineering Mechanics."
+    },
+    {
+        "id": "354",
+        "category": "faculty",
+        "fact": "Saikrishna Sunil Dachawar (Assistant Professor (Faculty )) teaches the following subjects at DYPIU: DBMS, Data Structure, Core Java, System Programming and Operating System."
+    },
+    {
+        "id": "355",
+        "category": "faculty",
+        "fact": "Dr. Anurag Kumar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Fluid Dynamics, Computational Physcis & Engineering Physics."
+    },
+    {
+        "id": "356",
+        "category": "faculty",
+        "fact": "Dr. Siddheshwar Kadam is an Assistant Professor (Faculty) at DYPIU. Teaches subjects in Mathematics (exact subject list not available)."
+    },
+    {
+        "id": "357",
+        "category": "faculty",
+        "fact": "Dr. Jyoti Shakya (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Basic Electronics."
+    },
+    {
+        "id": "358",
+        "category": "faculty",
+        "fact": "Dr. Dasharath D. Kondhare (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Drugs Design and Chemistry of Bioactive Molecules, Drugs of Natural Origin and Natural Products, Organic Chemistry, Organic Spectroscopy, Bioorganic Chemistry."
+    },
+    {
+        "id": "359",
+        "category": "faculty",
+        "fact": "Dr. Anuradha Patil (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Embedded Finance, Robo-Advisors, Foreign Trade Policy, Corporate Social Responsility."
+    },
+    {
+        "id": "360",
+        "category": "faculty",
+        "fact": "Mrs. Lakshmipraba Balaji (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Digital Electronics, Microcontrollers, Analog Circuits."
+    },
+    {
+        "id": "361",
+        "category": "faculty",
+        "fact": "Mr. Tushar Kshirsagar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Design Thinking, Information Architecture, User Interface Design."
+    },
+    {
+        "id": "362",
+        "category": "faculty",
+        "fact": "Dr. Ramesh Chandra Pathak (Professor (Professor)) teaches the following subjects at DYPIU: Public Relations, International Communication, Corporate Communication, Communication Research."
+    },
+    {
+        "id": "363",
+        "category": "faculty",
+        "fact": "Dr. Atul Pise (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Marketing Management, Business Research Methods, Decision Science, Marketing Analytics, Statistical Lab Using SPSS."
+    },
+    {
+        "id": "364",
+        "category": "faculty",
+        "fact": "Dr. Manpreet Kaur Riyat (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Regional Economic Integration, Marketing Management, Corporate Social Responsivity, Operations and Supply chain Management, Inventory Management."
+    },
+    {
+        "id": "365",
+        "category": "faculty",
+        "fact": "Prof. (Dr.) Anuj Kumar (Professor (Faculty)) teaches the following subjects at DYPIU: Principle of Data Science & Engineering, Big Data Analysis, Advance Data Science, Advance Statistics."
+    },
+    {
+        "id": "366",
+        "category": "faculty",
+        "fact": "Dr Ganesh Jadhav (Professor (Faculty)) teaches the following subjects at DYPIU: Kinematics of Machinary, Robotics & Automation, Product Design and Development."
+    },
+    {
+        "id": "367",
+        "category": "faculty",
+        "fact": "Dr. Pallavi Jha (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Media Research 2. Indian Culture and Society 3. Indian Folk Culture and Theatre 4. Organizational Behavior."
+    },
+    {
+        "id": "368",
+        "category": "faculty",
+        "fact": "Mr. Sharad Wadkar (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Calligraphy, Typography, Photography, Visual Communication, Publication Design."
+    },
+    {
+        "id": "369",
+        "category": "faculty",
+        "fact": "Dr.Jagadish S Jakati (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Computer Vision, Modern Software Engineering & Testing, System Software, Database Management System."
+    },
+    {
+        "id": "370",
+        "category": "faculty",
+        "fact": "Dr. Anju Chaurasia (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Mathematics, Discrete Mathematics, Optimization Techniques, Probability & Combinatorics, Statistics, Research Methodology."
+    },
+    {
+        "id": "371",
+        "category": "faculty",
+        "fact": "Dr. Priyanka Dhoot (Sr. Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Introduction to FinTech Ecosystem, Introduction to Financial Market, Financial Management, Accounting for Business Decisions."
+    },
+    {
+        "id": "372",
+        "category": "faculty",
+        "fact": "Dr. Ajit Dalvi (Assistant Professor ( Sr.) (Faculty)) teaches the following subjects at DYPIU: Regional Economic Integration, Marketing Management, Corporate Social Responsivity, Operations and Supply chain Management, Inventory Management."
+    },
+    {
+        "id": "373",
+        "category": "faculty",
+        "fact": "Dr Pravin Gorde (Associate Professor (Associate Professor)) teaches the following subjects at DYPIU: Construction Management, Basic Civil and Construction Engineering, Building Technology and Services."
+    },
+    {
+        "id": "374",
+        "category": "faculty",
+        "fact": "Abhijeet Avinash Pawar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Physics, Engineering Science, Data Visualization, Environmental Science, Basic Electrical Machines."
+    },
+    {
+        "id": "375",
+        "category": "faculty",
+        "fact": "Dr Rashmi Sameer Deshpande (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Signals and systems/Digital Electronics/Microprocessor/Mobile Communication/Electronic Circuits."
+    },
+    {
+        "id": "376",
+        "category": "faculty",
+        "fact": "Asha Ayakar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Digital Logic Design. 2) Computer Organization. 3) Embedded System Design. 4) Design Project-I."
+    },
+    {
+        "id": "377",
+        "category": "faculty",
+        "fact": "Dr. Amol Ramrao Dhakne (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Data Structure, Java Programming, Software Testing, Software Engineering, AI Processor and Architecture."
+    },
+    {
+        "id": "378",
+        "category": "faculty",
+        "fact": "DURGESH KUMAR is an Assistant Professor (Faculty) at DYPIU. Teaches subjects in Electronics and Communication Engineering (exact subject list not available)."
+    },
+    {
+        "id": "379",
+        "category": "faculty",
+        "fact": "Mrunmayee Rahate (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Cloud Computing 2. Principles of Communication System 3. Digital Electronics 4. Basic Electronics Engineering 5. Communication Electronics."
+    },
+    {
+        "id": "380",
+        "category": "faculty",
+        "fact": "Dr. Parth Sarthi Sen Gupta (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Computational Biology, Bioinformatics, Biochemistry, Targeted Drug Design & Delivery."
+    },
+    {
+        "id": "381",
+        "category": "faculty",
+        "fact": "Dinesh Kumar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Design of Machine Elements, Strength of Materials, Computer Aided Design, Mechanical Vibrations."
+    },
+    {
+        "id": "382",
+        "category": "faculty",
+        "fact": "Dr. Rishikant Rajdeepak (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Applied Computational Mathematics - II, Applied Computational Mathematics - I, Computational Thinking, Quantum Computing."
+    },
+    {
+        "id": "383",
+        "category": "faculty",
+        "fact": "Doyel Dutta (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Brand Communication, Digital Media Marketing, Corporate Communication, Public Relation, Advertising."
+    },
+    {
+        "id": "384",
+        "category": "faculty",
+        "fact": "Dr Sangeeta Benni (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Chemistry, Industrial Chemistry."
+    },
+    {
+        "id": "385",
+        "category": "faculty",
+        "fact": "Smita Satish Pawar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Data Mining and Warehousing."
+    },
+    {
+        "id": "386",
+        "category": "faculty",
+        "fact": "Dr.Pragati Choudhari (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Data Structures, Computer Networks, Design and Analysis of Algorithms, Database Management System."
+    },
+    {
+        "id": "387",
+        "category": "faculty",
+        "fact": "Ms. Samata Sham Bendre (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Illustration, Design for Brands, 3D Design, Theory of Communication Design, Research Methodology."
+    },
+    {
+        "id": "388",
+        "category": "faculty",
+        "fact": "Dr. Laxmi Priya Sahu (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Basic Electrical and Electronics Engineering, Introduction to Communication System, Biomedical Signal Processing, Deep Neural Network, Design and Analysis of Algorithms."
+    },
+    {
+        "id": "389",
+        "category": "faculty",
+        "fact": "Dr. Swapnil D. Waghmare (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Container and Orchestration, Infrastructure Orchestration, Cloud Architecture and Protocol, Cloud Data Engineering, Cloud Network and Security."
+    },
+    {
+        "id": "390",
+        "category": "faculty",
+        "fact": "Dr. Vinodkumar Ghale (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Applied Computational Mathematics, Computational Thinking, Business Statistics, Engineering Mathematics, Differential Geometry, Topology."
+    },
+    {
+        "id": "391",
+        "category": "faculty",
+        "fact": "Dr. Utkarsh Maheshwari (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Application of Digital Computers, Chemical Laboratory Techniques, Fluid Mechanics, Process Dynamics and Control, Transport Phenomena."
+    },
+    {
+        "id": "392",
+        "category": "faculty",
+        "fact": "Sunayana Bisalapur (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Operating Systems, Database Management systems, Computer Organization, Software Engineering, Digital Logic Design."
+    },
+    {
+        "id": "393",
+        "category": "faculty",
+        "fact": "Dr. Sanjay Badhe (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Introduction to Programming, Computer Networks, Intoduction to Intelligent Systems."
+    },
+    {
+        "id": "394",
+        "category": "faculty",
+        "fact": "Babuskin Srinivasan (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Downstream processing, Food process Engineering, Bioprocess Technology, Bioreactor Design & Analysis."
+    },
+    {
+        "id": "395",
+        "category": "faculty",
+        "fact": "Sourav Das is an Assistant Professor (Faculty) at DYPIU. Teaches subjects in Power Systems and Electrical Engineering (exact subject list not available)."
+    },
+    {
+        "id": "396",
+        "category": "faculty",
+        "fact": "Dr. Pravin Savata Gade (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Downstream Processing, Industrial Fermentation & Bioprocess Modelling, Genetic Engg, Enzymology, Biochemical analysis."
+    },
+    {
+        "id": "397",
+        "category": "faculty",
+        "fact": "Dr. Mrs. Kirti Bhushan Zare (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Chemical Engineering Mathematics, Chemical Engineering Thermodynamics, Chemical Engineering Design, Processes Engineering Costing and Plant Design, Heat and Mass Transfer."
+    },
+    {
+        "id": "398",
+        "category": "faculty",
+        "fact": "Reema Deshmukh (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Molecular Biology, Genetic engineering, Human Physiology."
+    },
+    {
+        "id": "399",
+        "category": "faculty",
+        "fact": "Ms Vaishnavi Vishnu Battul (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Design of Reinforced Concrete Structures, Structural Analysis, Mechanics of Strctures, Dams and Hydraulic Structures, Engineering Mechanics."
+    },
+    {
+        "id": "400",
+        "category": "faculty",
+        "fact": "Dr Sunita S Patil (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Chemical Reaction Engineering, Advanced Separation Processes, Chemical Technology, Process Calculations, Membrane Separation, Catalysis."
+    },
+    {
+        "id": "401",
+        "category": "faculty",
+        "fact": "Mr. Amit Kumar Om (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Radio, Video, Emerging Technologies in Media, Design & Graphics, PCR &TV Studio Management."
+    },
+    {
+        "id": "402",
+        "category": "faculty",
+        "fact": "Achal Ravindra Katware (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Data Science."
+    },
+    {
+        "id": "403",
+        "category": "faculty",
+        "fact": "Dr. Anurag Das (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Discrete Maths, Applied Statistics, Introduction to Machine learning, Number theory and Calculus, C Programming."
+    },
+    {
+        "id": "404",
+        "category": "faculty",
+        "fact": "Dr. Somya Dubey (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: RDBMS, SYSTEM SECURITY, ARVR, System Software Security."
+    },
+    {
+        "id": "405",
+        "category": "faculty",
+        "fact": "Anagha Ekbote (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Microcontrollers, Basic Electronics, Computer Organization and Architecture, Data Structures."
+    },
+    {
+        "id": "406",
+        "category": "faculty",
+        "fact": "Mayura Abhijit Khanore (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Human Physiology, Biology for Engineers."
+    },
+    {
+        "id": "407",
+        "category": "faculty",
+        "fact": "Jyoti M Tipale (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: IoT, Computer Networks."
+    },
+    {
+        "id": "408",
+        "category": "faculty",
+        "fact": "Dr.Dipika Pradhan (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Data science, Deep learning, Predictive modeling, Big Data analytics, Time series Analysis, Signal Processing, Microcontroller."
+    },
+    {
+        "id": "409",
+        "category": "faculty",
+        "fact": "Dr.Shilpa Prakash Idhol (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Chemistry, Polymer Sciences and applications."
+    },
+    {
+        "id": "410",
+        "category": "faculty",
+        "fact": "Dr. Pooja Roy Dasgupta (Assistant Professor (Faculty)) specializes in HRM(Human Resource Management) at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "411",
+        "category": "faculty",
+        "fact": "Dr.Amol S Mali (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Design of Machine elements, Computer Aided Design and Drafting, Engineering Graphics, Finite elements Analysis."
+    },
+    {
+        "id": "412",
+        "category": "faculty",
+        "fact": "Dr. Prateek Srivastav (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Digital Signal Processing, Game Theory, Fuzzy Logic and Quantum Machine Learning."
+    },
+    {
+        "id": "413",
+        "category": "faculty",
+        "fact": "Mrs. Shruti Joglekar (Assistant Professor (Faculty)) specializes in Electrical Engineering at DYPIU. Specific subject details are not currently listed."
+    },
+    {
+        "id": "414",
+        "category": "faculty",
+        "fact": "Seema Darekar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Fundamentals of programming Language, Object oriented programming, Database Management Systems, Computer Graphics, Software Engineering, Software Project Management, Data structures."
+    },
+    {
+        "id": "415",
+        "category": "faculty",
+        "fact": "Prabir Kumar Das (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Biomedical Signal Processing, Advanced Computing in Biological Systems."
+    },
+    {
+        "id": "416",
+        "category": "faculty",
+        "fact": "Dr. Shweta Suryawanshi (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Network Theory, Digital Signal Processing, Digital Electronics, OOP, DBMS."
+    },
+    {
+        "id": "417",
+        "category": "faculty",
+        "fact": "Ghansham Rathod (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Data Structure, Introduction to Data Science and Engineering."
+    },
+    {
+        "id": "418",
+        "category": "faculty",
+        "fact": "Dipali Dhokane (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Data structures, Web technologies, SAD, Advance cloud computing, Introduction to Pytho."
+    },
+    {
+        "id": "419",
+        "category": "faculty",
+        "fact": "Ms. Yukta More (Teaching Assistant (Faculty)) teaches the following subjects at DYPIU: Teaches subjects in Artificial Intelligence, Machine Learning, and Data Science (exact subject list not available)."
+    },
+    {
+        "id": "420",
+        "category": "faculty",
+        "fact": "Dr Vaishnaw G Kale (Professor (Faculty)) teaches the following subjects at DYPIU: Introduction to AIML, Advanced AI, Deep Neural Network, Rienforcement Learning."
+    },
+    {
+        "id": "421",
+        "category": "faculty",
+        "fact": "Ketan M Deore (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Introduction to Animation, Introduction to Filmmaking, Elements of Design, Design for XR, 2D/3D Illustration & Digital Rendering, Film Design."
+    },
+    {
+        "id": "422",
+        "category": "faculty",
+        "fact": "Dr Sandesh Solepatil (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Solid Mechanics, Kinematics of Machinery, Composite Materials, Tribology, Engineering Graphics."
+    },
+    {
+        "id": "423",
+        "category": "faculty",
+        "fact": "Dr. Vikas Dive (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Mechanical System Component Design, Dynamics of Machinery, Sensors and Actuators, Modelling and simulation of EV."
+    },
+    {
+        "id": "424",
+        "category": "faculty",
+        "fact": "Sri Gayathri Vedula (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Elements & Principles of Design, Communication Skills, Emerging Media & Technology, UI Wireframing and interactive Prototyping, Information Architecture & Digital Systems, Comic Book Illustration, UX Writing & Microcopy, Motion Design for UI."
+    },
+    {
+        "id": "425",
+        "category": "faculty",
+        "fact": "Mr Sachin S Jamadar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Mathematics, Applied Mathematics, Algebra, Analysis."
+    },
+    {
+        "id": "426",
+        "category": "faculty",
+        "fact": "Mr. Shyam Pagare (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Visual Communication, Graphic Design, Printing Technology, Advertising, Print and Publication."
+    },
+    {
+        "id": "427",
+        "category": "faculty",
+        "fact": "Dr. Dnyanda Hire (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Communication Techniques, VLSI Design, Digital Communication, Semiconductor Manufacturing Process."
+    },
+    {
+        "id": "428",
+        "category": "faculty",
+        "fact": "Pratiksha Saheb (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Introduction of python, Obeject Oriented Java, Big data Analytics, Operating Systems, Data Visualization."
+    },
+    {
+        "id": "429",
+        "category": "faculty",
+        "fact": "Mr Rajesh Suresh Poojari (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Design for Brands and Motion graphics, Publication Design, Campaign for Advertising, Social Awareness."
+    },
+    {
+        "id": "430",
+        "category": "faculty",
+        "fact": "Surabhi Kanchan Gulwelkar (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Sketching & Drawing, 2D Design, Color Theory."
+    },
+    {
+        "id": "431",
+        "category": "faculty",
+        "fact": "Dr Sandhya Shinde (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Power Electronics, Basic Electronics, Analog Circuit, Basic Electronics and Embedded System, Mechatronics."
+    },
+    {
+        "id": "432",
+        "category": "faculty",
+        "fact": "Shubhangi Vivekanand Patil (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Biomedical Instrumentation, Advanced Computing, Introduction to computer programming, Deep Learning & Machine Learning, Data structure."
+    },
+    {
+        "id": "433",
+        "category": "faculty",
+        "fact": "Dr. Sheetal Bansude Bura (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Digital Marketing, Marketing Dynamics, Strategic Management, Marketing Research."
+    },
+    {
+        "id": "434",
+        "category": "faculty",
+        "fact": "Dr. Aniket Bhanudas Kolekar (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Design Thinking & Fab Lab 2. Engineering Materials & Metallurgy 3. Advanced Manufacturing Technology 4. Manufacturing Processess 5. Light Weight Materials."
+    },
+    {
+        "id": "435",
+        "category": "faculty",
+        "fact": "Mr. Sudhir Nanaso Narale (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Mathematics, Appied Mathematics, M-I, M-II, M-III, Statastics."
+    },
+    {
+        "id": "436",
+        "category": "faculty",
+        "fact": "Dr. Anu Dandona (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Business Statistics, Biostatistics, Life Skills, Industrial Psychology and Cognitive Psychology."
+    },
+    {
+        "id": "437",
+        "category": "faculty",
+        "fact": "Dr. Vanita R. Daddi (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Applied Computational Mathematics, Engineering Mathematics-I, II & III, Algebra, Analysis."
+    },
+    {
+        "id": "438",
+        "category": "faculty",
+        "fact": "Mr. Umesh Narkhede (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Engineering Mathematics-I, III, Statistics, Engineering Mathematics, Applied Mathematics."
+    },
+    {
+        "id": "439",
+        "category": "faculty",
+        "fact": "Ms. Shraddha Jadhav (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Computer Vision, Embedded System Design Development, Fundamentals of Generative AI, Introduction to Communication Systems, Digital Communication."
+    },
+    {
+        "id": "440",
+        "category": "faculty",
+        "fact": "Dr. Ram Kunwer (Associate Professor (Faculty)) teaches the following subjects at DYPIU: Heat and Mass Transfer, Finite Element Analysis, Computational Fluid Dynamics, Applied Machine Learning, Thermodynamics."
+    },
+    {
+        "id": "441",
+        "category": "faculty",
+        "fact": "Dr. Pranjali Tete (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Fundamentals of Hybrid & Electric Vehicles 2. EV Battery Thermal Management Systems 3. Green and Lean Manufacturing."
+    },
+    {
+        "id": "442",
+        "category": "faculty",
+        "fact": "Vijay Laxmi Pinjan (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Theory of Communication Design, Design for Social awareness, Visualisation, Graphic & Merchandise."
+    },
+    {
+        "id": "443",
+        "category": "faculty",
+        "fact": "Kumud Das (Associate Professor (Faculty)) teaches the following subjects at DYPIU: News Reporting & Writing, Business Journalism, Media Law & Ethics, Integrated marketing Communication, Communication Concept & Processes."
+    },
+    {
+        "id": "444",
+        "category": "faculty",
+        "fact": "Dr. Paresh Kulkarni (Assistant Professor (Faculty)) teaches the following subjects at DYPIU: Teaches subjects in Manufacturing, Quality Management, and related areas (exact subject list not available)."
+    },
+    {
+        "id": "445",
+        "category": "faculty",
+        "fact": "Database Management System (DBMS) is taught by multiple faculty members at DYPIU: Purva Dindayal Thakare, Prof. (Dr.) Chandrashekhar Goswami, Saikrishna Sunil Dachawar, Dr.Jagadish S Jakati, Dr.Pragati Choudhari, Sunayana Bisalapur, Seema Darekar, Dr. Shweta Suryawanshi. Note that this subject may appear under different names such as 'Database Management System', 'Database Management Systems', or simply 'DBMS' depending on the course context, but all refer to the same subject area."
+    },
+    {
+        "id": "446",
+        "category": "faculty",
+        "fact": "DYPIU currently has 6 Heads of Department (HODs): Dr. Maheshwari Biradar (Associate Professor); Dr. Swapnil Bhurat (Professor); Dr Shailesh Ghodke (Associate Professor); Dr. Surabhi Sonam (Associate Professor); Dr Arokia Priya Charles (Professor); Maan Bardhan Kanth (Associate Director)."
+    },
+    {
+        "id": "447",
+        "category": "faculty",
+        "fact": "DYPIU has a diverse and growing faculty of approximately 149 members across its various schools, departments, and administrative roles, covering disciplines from engineering and technology to design, biosciences, management, media, and humanities."
+    },
+    {
+        "id": "448",
+        "category": "faculty",
+        "fact": "Several faculty members at DYPIU hold both a Head of Department role and an active teaching/professorial position: Dr. Maheshwari Biradar; Dr. Swapnil Bhurat; Dr Shailesh Ghodke; Dr. Surabhi Sonam; Dr Arokia Priya Charles. This reflects DYPIU's structure where department heads are actively involved in academics."
+    },
+    {
+        "id": "449",
+        "category": "faculty",
+        "fact": "For corporate relations and industry tie-ups at DYPIU, the key contacts are: Dr. Arun Sacher (Associate Dean - Corporate Relations & Placements, School of Commerce & Management); Chetan Khairnar (Senior Manager \u2013 Corporate Relations); Sudha Nirmale (Deputy Manager - Corporate Relations). You can reach the admissions/corporate office at admission@dypiu.ac.in or +91 9071123434."
+    },
+    {
+        "id": "450",
+        "category": "faculty",
+        "fact": "The Placements team at DYPIU is led by Ms. Jasmita Kaur (Dean Placements), supported by Dr. Arun Sacher who holds the role of Associate Dean for Corporate Relations & Placements. For placement-related queries, contact the admissions and placement office at admission@dypiu.ac.in or +91 9071123434."
+    },
+    {
+        "id": "451",
+        "category": "faculty",
+        "fact": "Admissions and outreach at DYPIU are managed by Dr. Anurag Anand Pandey (Director \u2013 Admission & Outreach) and Mr. Vitthal M Dhumal (Dy. Director \u2013 Admission & Outreach). For admissions queries, contact admission@dypiu.ac.in or call +91 9071123434 / +91 9071123404."
+    },
+    {
+        "id": "452",
+        "category": "faculty",
+        "fact": "The Internal Quality Assurance Cell (IQAC) at DYPIU is directed by Dr. Sunil Dambhare, who serves as Professor and Director-IQAC alongside his role in Mechanical Engineering. IQAC is responsible for maintaining and enhancing academic quality standards at the university."
+    },
+    {
+        "id": "453",
+        "category": "faculty",
+        "fact": "The Centre for Skill Development at DYPIU is led by Dr. Sathish D, who serves as Assistant Professor and Joint Director of the Centre for Skill Development. His expertise is in Jet Propulsion and Gas Turbine Engineering, and he also teaches subjects including Aircraft Propulsion, Aerospace Propulsion, Computational Fluid Dynamics, and Aerodynamics."
+    },
+    {
+        "id": "454",
+        "category": "faculty",
+        "fact": "Dr. Maheshwari Biradar holds the position of Associate Professor (Head of Department- B.Tech CSE) at DYPIU."
+    },
+    {
+        "id": "455",
+        "category": "faculty",
+        "fact": "Dr. Swapnil Bhurat holds the position of Professor (Head of Department- Mechanical Engineering) at DYPIU."
+    },
+    {
+        "id": "456",
+        "category": "faculty",
+        "fact": "Dr Shailesh Ghodke holds the position of Associate Professor (Head of Department-Chemical Engineering) at DYPIU."
+    },
+    {
+        "id": "457",
+        "category": "faculty",
+        "fact": "Dr. Surabhi Sonam holds the position of Associate Professor (Head of Department Biotech Engineering) at DYPIU."
+    },
+    {
+        "id": "458",
+        "category": "faculty",
+        "fact": "Dr. Rahul M. Weldode holds the position of Sr. Assistant Professor (Academic Coordinator) at DYPIU."
+    },
+    {
+        "id": "459",
+        "category": "faculty",
+        "fact": "Dr. Arun Sacher holds the position of Associate Dean (Corporate Relations & Placements) | Professor (School of Commerce & Management) at DYPIU."
+    },
+    {
+        "id": "460",
+        "category": "faculty",
+        "fact": "Dr Abnish Singh Chauhan holds the position of Professor (Director of School of Humanities and Social Sciences) at DYPIU."
+    },
+    {
+        "id": "461",
+        "category": "faculty",
+        "fact": "Dr Sunil Dambhare holds the position of Professor (Director-IQAC(Internal Quality Assurance Cell)  & Mechanical Engineering) at DYPIU."
+    },
+    {
+        "id": "462",
+        "category": "faculty",
+        "fact": "Dr Arokia Priya Charles holds the position of Professor (Head of Department- Semiconductor) at DYPIU."
+    },
+    {
+        "id": "463",
+        "category": "faculty",
+        "fact": "Maan Bardhan Kanth holds the position of Associate Director (Head of Department Media and Journalism) at DYPIU."
+    },
+    {
+        "id": "464",
+        "category": "faculty",
+        "fact": "Dr.Arvind Kumar holds the position of Professor (Director - School Of Media and Journalism) at DYPIU."
+    },
+    {
+        "id": "465",
+        "category": "faculty",
+        "fact": "Dr.Rahul Sharma holds the position of Professor (Director - School Of Computer Science Engineering and Applications) at DYPIU."
+    },
+    {
+        "id": "466",
+        "category": "faculty",
+        "fact": "Arvind Mathur holds the position of Professor (Director - School Of Engineering ) at DYPIU."
+    },
+    {
+        "id": "467",
+        "category": "faculty",
+        "fact": "Dr.Sathish D holds the position of Assistant Professor (Joint Director - Centre for skill developement) at DYPIU."
+    },
+    {
+        "id": "468",
+        "category": "faculty",
+        "fact": "Ms. Jasmita Kaur holds the position of Dean Placements at DYPIU."
+    },
+    {
+        "id": "469",
+        "category": "faculty",
+        "fact": "Chetan Khairnar holds the position of Senior Manager \u2013 Corporate Relations at DYPIU."
+    },
+    {
+        "id": "470",
+        "category": "faculty",
+        "fact": "Sudha Nirmale holds the position of Deputy Manager - Corporate Relations at DYPIU."
+    },
+    {
+        "id": "471",
+        "category": "faculty",
+        "fact": "Prof.(Dr.) Manish Bhalla holds the position of Vice Chancellor at DYPIU."
+    },
+    {
+        "id": "472",
+        "category": "faculty",
+        "fact": "Ms.Hetal Patel. holds the position of Executive Assistant to Vice-Chancellor,& Deputy Manager-Human Resources at DYPIU."
+    },
+    {
+        "id": "473",
+        "category": "faculty",
+        "fact": "HON. DR. SANJAY D. PATIL holds the position of Chancellor, D Y Patil International University at DYPIU."
+    },
+    {
+        "id": "474",
+        "category": "faculty",
+        "fact": "HON. DR. D. Y. PATIL holds the position of Founder President Of D. Y. Patil Group & Former Governor of the Indian States of Bihar, Tripura and West Bengal at DYPIU."
+    },
+    {
+        "id": "475",
+        "category": "faculty",
+        "fact": "Shri. Tejas S. Patil holds the position of Trustee of Dr. D. Y. Patil Education Complex, Akurdi at DYPIU."
+    },
+    {
+        "id": "476",
+        "category": "faculty",
+        "fact": "Dr.(Prof.) Beeran Moidin B M holds the position of Registrar at DYPIU."
+    },
+    {
+        "id": "477",
+        "category": "faculty",
+        "fact": "Dr. Anupama V Patil holds the position of Dean - Faculty of Engineering & Technology (DYPIU) at DYPIU."
+    },
+    {
+        "id": "478",
+        "category": "faculty",
+        "fact": "Prof. (Dr.) Madhavi Deshpande holds the position of Dean of Faculty Non-Engineering, D Y Patil International University, Pune at DYPIU."
+    },
+    {
+        "id": "479",
+        "category": "faculty",
+        "fact": "Prof. Ramendra Pati Pandey holds the position of Deputy Dean (R&D)/Professor at DYPIU."
+    },
+    {
+        "id": "480",
+        "category": "faculty",
+        "fact": "Dr. Anurag Anand Pandey holds the position of Director \u2013Admission & Outreach at DYPIU."
+    },
+    {
+        "id": "481",
+        "category": "faculty",
+        "fact": "Mr. Vitthal M Dhumal holds the position of Dy.Director \u2013 Admission & Outreach at DYPIU."
+    },
+    {
+        "id": "482",
+        "category": "faculty",
+        "fact": "Ms. Priyanka Sharad Jawale holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "483",
+        "category": "faculty",
+        "fact": "Aziz Poonawala holds the position of Professor of Practice (Faculty) at DYPIU."
+    },
+    {
+        "id": "484",
+        "category": "faculty",
+        "fact": "Ms. Shobhana Patil holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "485",
+        "category": "faculty",
+        "fact": "Dr. Suchit Deshmukh holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "486",
+        "category": "faculty",
+        "fact": "Dr. Dipti Chandra holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "487",
+        "category": "faculty",
+        "fact": "Dr. Keval Chandrakant Nikam holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "488",
+        "category": "faculty",
+        "fact": "Dr Amit M Umbrajkar holds the position of Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "489",
+        "category": "faculty",
+        "fact": "Dr. Sidhartha singh holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "490",
+        "category": "faculty",
+        "fact": "Dr. Lubna Shaik holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "491",
+        "category": "faculty",
+        "fact": "Dr. Prafull Chavan holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "492",
+        "category": "faculty",
+        "fact": "Dineshkumar Yograj Turkar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "493",
+        "category": "faculty",
+        "fact": "Dr. Sonal Mahajan holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "494",
+        "category": "faculty",
+        "fact": "Dr. Meena Pandey holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "495",
+        "category": "faculty",
+        "fact": "Dr. Subhranshu Samal holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "496",
+        "category": "faculty",
+        "fact": "Dr. Ramendra Pati Pandey holds the position of Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "497",
+        "category": "faculty",
+        "fact": "Prof. Shashi Singh holds the position of Sr. Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "498",
+        "category": "faculty",
+        "fact": "Dr Siddharth Gavhale holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "499",
+        "category": "faculty",
+        "fact": "Dr VANDANA B PATIL holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "500",
+        "category": "faculty",
+        "fact": "Jeevraj Sharad Bhalerao holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "501",
+        "category": "faculty",
+        "fact": "Purva Dindayal Thakare holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "502",
+        "category": "faculty",
+        "fact": "Dr. Vandna Srivastava holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "503",
+        "category": "faculty",
+        "fact": "Mr. Krishna Ganpat Sawant holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "504",
+        "category": "faculty",
+        "fact": "Dr Atul Ramdas Kolhe holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "505",
+        "category": "faculty",
+        "fact": "Dr. Gaurav Kumar Singh holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "506",
+        "category": "faculty",
+        "fact": "Dr.Sanjay Mohite holds the position of Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "507",
+        "category": "faculty",
+        "fact": "Mr. Sandeep Dongare holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "508",
+        "category": "faculty",
+        "fact": "Prof. (Dr.) Chandrashekhar Goswami holds the position of Professor (Faculty ) at DYPIU."
+    },
+    {
+        "id": "509",
+        "category": "faculty",
+        "fact": "Monika Kapgate holds the position of Assistant Professor (Faculty ) at DYPIU."
+    },
+    {
+        "id": "510",
+        "category": "faculty",
+        "fact": "Mr. Chetan Pawar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "511",
+        "category": "faculty",
+        "fact": "Ms. Tejashri Satish Gulve holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "512",
+        "category": "faculty",
+        "fact": "Saikrishna Sunil Dachawar holds the position of Assistant Professor (Faculty ) at DYPIU."
+    },
+    {
+        "id": "513",
+        "category": "faculty",
+        "fact": "Dr. Anurag Kumar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "514",
+        "category": "faculty",
+        "fact": "Dr. Siddheshwar Kadam holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "515",
+        "category": "faculty",
+        "fact": "Dr. Jyoti Shakya holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "516",
+        "category": "faculty",
+        "fact": "Dr. Dasharath D. Kondhare holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "517",
+        "category": "faculty",
+        "fact": "Dr. Anuradha Patil holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "518",
+        "category": "faculty",
+        "fact": "Mrs. Lakshmipraba Balaji holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "519",
+        "category": "faculty",
+        "fact": "Mr. Tushar Kshirsagar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "520",
+        "category": "faculty",
+        "fact": "Dr. Ramesh Chandra Pathak holds the position of Professor (Professor) at DYPIU."
+    },
+    {
+        "id": "521",
+        "category": "faculty",
+        "fact": "Dr. Atul Pise holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "522",
+        "category": "faculty",
+        "fact": "Dr. Manpreet Kaur Riyat holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "523",
+        "category": "faculty",
+        "fact": "Prof. (Dr.) Anuj Kumar holds the position of Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "524",
+        "category": "faculty",
+        "fact": "Dr Ganesh Jadhav holds the position of Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "525",
+        "category": "faculty",
+        "fact": "Dr. Pallavi Jha holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "526",
+        "category": "faculty",
+        "fact": "Mr. Sharad Wadkar holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "527",
+        "category": "faculty",
+        "fact": "Dr.Jagadish S Jakati holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "528",
+        "category": "faculty",
+        "fact": "Dr. Anju Chaurasia holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "529",
+        "category": "faculty",
+        "fact": "Dr. Priyanka Dhoot holds the position of Sr. Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "530",
+        "category": "faculty",
+        "fact": "Dr. Ajit Dalvi holds the position of Assistant Professor ( Sr.) (Faculty) at DYPIU."
+    },
+    {
+        "id": "531",
+        "category": "faculty",
+        "fact": "Dr Pravin Gorde holds the position of Associate Professor (Associate Professor) at DYPIU."
+    },
+    {
+        "id": "532",
+        "category": "faculty",
+        "fact": "Abhijeet Avinash Pawar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "533",
+        "category": "faculty",
+        "fact": "Dr Rashmi Sameer Deshpande holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "534",
+        "category": "faculty",
+        "fact": "Asha Ayakar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "535",
+        "category": "faculty",
+        "fact": "Dr. Amol Ramrao Dhakne holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "536",
+        "category": "faculty",
+        "fact": "DURGESH KUMAR holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "537",
+        "category": "faculty",
+        "fact": "Mrunmayee Rahate holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "538",
+        "category": "faculty",
+        "fact": "Dr. Parth Sarthi Sen Gupta holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "539",
+        "category": "faculty",
+        "fact": "Dinesh Kumar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "540",
+        "category": "faculty",
+        "fact": "Dr. Rishikant Rajdeepak holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "541",
+        "category": "faculty",
+        "fact": "Doyel Dutta holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "542",
+        "category": "faculty",
+        "fact": "Dr Sangeeta Benni holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "543",
+        "category": "faculty",
+        "fact": "Smita Satish Pawar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "544",
+        "category": "faculty",
+        "fact": "Dr.Pragati Choudhari holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "545",
+        "category": "faculty",
+        "fact": "Ms. Samata Sham Bendre holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "546",
+        "category": "faculty",
+        "fact": "Dr. Laxmi Priya Sahu holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "547",
+        "category": "faculty",
+        "fact": "Dr. Swapnil D. Waghmare holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "548",
+        "category": "faculty",
+        "fact": "Dr. Vinodkumar Ghale holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "549",
+        "category": "faculty",
+        "fact": "Dr. Utkarsh Maheshwari holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "550",
+        "category": "faculty",
+        "fact": "Sunayana Bisalapur holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "551",
+        "category": "faculty",
+        "fact": "Dr. Sanjay Badhe holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "552",
+        "category": "faculty",
+        "fact": "Babuskin Srinivasan holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "553",
+        "category": "faculty",
+        "fact": "Sourav Das holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "554",
+        "category": "faculty",
+        "fact": "Dr. Pravin Savata Gade holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "555",
+        "category": "faculty",
+        "fact": "Dr. Mrs. Kirti Bhushan Zare holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "556",
+        "category": "faculty",
+        "fact": "Reema Deshmukh holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "557",
+        "category": "faculty",
+        "fact": "Ms Vaishnavi Vishnu Battul holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "558",
+        "category": "faculty",
+        "fact": "Dr Sunita S Patil holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "559",
+        "category": "faculty",
+        "fact": "Mr. Amit Kumar Om holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "560",
+        "category": "faculty",
+        "fact": "Achal Ravindra Katware holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "561",
+        "category": "faculty",
+        "fact": "Dr. Anurag Das holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "562",
+        "category": "faculty",
+        "fact": "Dr. Somya Dubey holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "563",
+        "category": "faculty",
+        "fact": "Anagha Ekbote holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "564",
+        "category": "faculty",
+        "fact": "Mayura Abhijit Khanore holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "565",
+        "category": "faculty",
+        "fact": "Jyoti M Tipale holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "566",
+        "category": "faculty",
+        "fact": "Dr.Dipika Pradhan holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "567",
+        "category": "faculty",
+        "fact": "Dr.Shilpa Prakash Idhol holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "568",
+        "category": "faculty",
+        "fact": "Dr. Pooja Roy Dasgupta holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "569",
+        "category": "faculty",
+        "fact": "Dr.Amol S Mali holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "570",
+        "category": "faculty",
+        "fact": "Dr. Prateek Srivastav holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "571",
+        "category": "faculty",
+        "fact": "Mrs. Shruti Joglekar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "572",
+        "category": "faculty",
+        "fact": "Seema Darekar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "573",
+        "category": "faculty",
+        "fact": "Prabir Kumar Das holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "574",
+        "category": "faculty",
+        "fact": "Dr. Shweta Suryawanshi holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "575",
+        "category": "faculty",
+        "fact": "Ghansham Rathod holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "576",
+        "category": "faculty",
+        "fact": "Dipali Dhokane holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "577",
+        "category": "faculty",
+        "fact": "Ms. Yukta More holds the position of Teaching Assistant (Faculty) at DYPIU."
+    },
+    {
+        "id": "578",
+        "category": "faculty",
+        "fact": "Dr Vaishnaw G Kale holds the position of Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "579",
+        "category": "faculty",
+        "fact": "Ketan M Deore holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "580",
+        "category": "faculty",
+        "fact": "Dr Sandesh Solepatil holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "581",
+        "category": "faculty",
+        "fact": "Dr. Vikas Dive holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "582",
+        "category": "faculty",
+        "fact": "Sri Gayathri Vedula holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "583",
+        "category": "faculty",
+        "fact": "Mr Sachin S Jamadar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "584",
+        "category": "faculty",
+        "fact": "Mr. Shyam Pagare holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "585",
+        "category": "faculty",
+        "fact": "Dr. Dnyanda Hire holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "586",
+        "category": "faculty",
+        "fact": "Pratiksha Saheb holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "587",
+        "category": "faculty",
+        "fact": "Mr Rajesh Suresh Poojari holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "588",
+        "category": "faculty",
+        "fact": "Surabhi Kanchan Gulwelkar holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "589",
+        "category": "faculty",
+        "fact": "Dr Sandhya Shinde holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "590",
+        "category": "faculty",
+        "fact": "Shubhangi Vivekanand Patil holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "591",
+        "category": "faculty",
+        "fact": "Dr. Sheetal Bansude Bura holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "592",
+        "category": "faculty",
+        "fact": "Dr. Aniket Bhanudas Kolekar holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "593",
+        "category": "faculty",
+        "fact": "Mr. Sudhir Nanaso Narale holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "594",
+        "category": "faculty",
+        "fact": "Dr. Anu Dandona holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "595",
+        "category": "faculty",
+        "fact": "Dr. Vanita R. Daddi holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "596",
+        "category": "faculty",
+        "fact": "Mr. Umesh Narkhede holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "597",
+        "category": "faculty",
+        "fact": "Ms. Shraddha Jadhav holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "598",
+        "category": "faculty",
+        "fact": "Dr. Ram Kunwer holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "599",
+        "category": "faculty",
+        "fact": "Dr. Pranjali Tete holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "600",
+        "category": "faculty",
+        "fact": "Vijay Laxmi Pinjan holds the position of Assistant Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "601",
+        "category": "faculty",
+        "fact": "Kumud Das holds the position of Associate Professor (Faculty) at DYPIU."
+    },
+    {
+        "id": "602",
+        "category": "faculty",
+        "fact": "Dr. Paresh Kulkarni holds the position of Assistant Professor (Faculty) at DYPIU."
+    }
+]
